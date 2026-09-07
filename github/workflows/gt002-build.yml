@@ -1,0 +1,32 @@
+name: GT-002 Cohort Build
+
+on:
+  push:
+    paths:
+      - 'gt002/build_cohort.py'
+      - '.github/workflows/gt002-build.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Build GT-002 cohort
+        run: python3 gt002/build_cohort.py
+      - name: Commit outputs back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gt002/output/*.tsv
+          if git diff --cached --quiet; then echo "No changes to commit"; else git commit -m "GT-002: rebuild cohort from AADR v66.p1 [skip ci]"; git push; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gt002-cohort-tsv
+          path: gt002/output/*.tsv
