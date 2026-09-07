@@ -109,9 +109,9 @@ jobs:
             libtiff-dev \
             libjpeg-dev
 
-      - name: Install R packages (CRAN binaries)
+      - name: Install R packages (data.table, remotes)
         run: |
-          install.packages(c("data.table", "remotes"), type = "binary")
+          install.packages(c("data.table", "remotes"))
         shell: Rscript {0}
 
       - name: Install ADMIXTOOLS2 from GitHub
