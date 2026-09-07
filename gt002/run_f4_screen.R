@@ -43,6 +43,15 @@ options(error = function() {
   print(sessionInfo())
 })
 
+
+# Print traceback on error so CI logs show the actual failure point
+options(error = function() {
+  cat("\n=== ERROR TRACEBACK ===\n")
+  traceback(2)
+  cat("\n=== Session Info ===\n")
+  print(sessionInfo())
+})
+
 # --- CONFIG ---
 GENO_PREFIX  <- "v66.p1_1240K.aadr.patch.PUB"    # EIGENSTRAT prefix
 MOD_PREFIX   <- paste0(GENO_PREFIX, "_gt002")    # modified prefix
@@ -109,7 +118,12 @@ cat("[2/6] Extracting f2 blocks (may take 20-60 min)...\n")
 # The popmap comes from the .anno file which has ALL samples, but the .ind
 # file only has samples with genotype data.  extract_f2 fails if a pop
 # in the pops argument doesn't appear in the .ind file.
+# Only include populations that actually exist in the .ind file.
+# The popmap comes from the .anno file which has ALL samples, but the .ind
+# file only has samples with genotype data.  extract_f2 fails if a pop
+# in the pops argument doesn't appear in the .ind file.
 analysis_pops <- unique(mod_ind$population[mod_ind$population != "UNUSED"])
+cat(sprintf("  %d analysis populations (from .ind file)\n", length(analysis_pops)))
 cat(sprintf("  %d analysis populations (from .ind file)\n", length(analysis_pops)))
 
 # maxmiss = 1: keep all SNPs even if missing in some populations.
