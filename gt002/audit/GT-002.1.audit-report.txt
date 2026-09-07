@@ -1,0 +1,418 @@
+========================================================================
+GT-002.1 — COHORT AUDIT REPORT
+========================================================================
+
+Source file   : v66.p1_1240K.aadr.PUB.anno
+Columns (N)   : 49
+Physical lines: 23,090
+Header end    : line 1
+
+------------------------------------------------------------------------
+1. MISSING ROWS DIAGNOSIS
+------------------------------------------------------------------------
+Reference parser records (broad_idlike) : 23,089
+Reference parser unique IDs            : 23,089
+Build script parser records (strict)   : 23,083
+Build script parser unique IDs         : 23,083
+Missing (ref has, build script doesn't): 6
+Extra  (build has, ref doesn't)        : 0
+
+Single-line records (broad, N fields)  : 23,089
+Single-line unique IDs                 : 23,089
+
+  ▸ Missing ID: prs003/015.WGC.SG
+    Line: 6644
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L6642: mid002.SG	8560	mid002	Midhowe1	cranial bone	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB310
+      L6643: prs002.SG	8561	prs002	Primrose2	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB31045	Dir
+  >>> L6644: prs003/015.WGC.SG	8562	prs003/015	Primrose3	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PR
+      L6645: prs006/011.WGC.SG	8563	prs006/011	Primrose6	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PR
+      L6646: prs010.WGC.SG	8564	prs010	Primrose10	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB3104
+
+  ▸ Missing ID: prs006/011.WGC.SG
+    Line: 6645
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L6643: prs002.SG	8561	prs002	Primrose2	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB31045	Dir
+      L6644: prs003/015.WGC.SG	8562	prs003/015	Primrose3	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PR
+  >>> L6645: prs006/011.WGC.SG	8563	prs006/011	Primrose6	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PR
+      L6646: prs010.WGC.SG	8564	prs010	Primrose10	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB3104
+      L6647: prs012.WGC.SG	8565	prs012	Primrose12	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	ENA:PRJEB3104
+
+  ▸ Missing ID: prs008/009.SG
+    Line: 17130
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L17128: I10872.AG	51473	I10872	"LAK93 C13 212 (6), SE.I (Burial Unit 2, Double primary burial, SEI (4 ys))"	petrous (cochlea)	LipsonReichNature2020	LipsonReichNature202
+      L17129: I4207.AG	51476	I4207	KMYL2	petrous (cochlea)	LazaridisReichScience2022	LazaridisReichScience2022	https://doi.org/10.1126/science.abm4247	..	Context: Archaeologi
+  >>> L17130: prs008/009.SG	51478	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Direc
+      L17131: prs008/009_d.SG	51479	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Dir
+      L17132: prs013/014.SG	51480	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Direc
+
+  ▸ Missing ID: prs008/009_d.SG
+    Line: 17131
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L17129: I4207.AG	51476	I4207	KMYL2	petrous (cochlea)	LazaridisReichScience2022	LazaridisReichScience2022	https://doi.org/10.1126/science.abm4247	..	Context: Archaeologi
+      L17130: prs008/009.SG	51478	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Direc
+  >>> L17131: prs008/009_d.SG	51479	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Dir
+      L17132: prs013/014.SG	51480	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Direc
+      L17133: prs013/014_d.SG	51481	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Dir
+
+  ▸ Missing ID: prs013/014.SG
+    Line: 17132
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L17130: prs008/009.SG	51478	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Direc
+      L17131: prs008/009_d.SG	51479	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Dir
+  >>> L17132: prs013/014.SG	51480	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Direc
+      L17133: prs013/014_d.SG	51481	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Dir
+      L17134: ARM002.AG	51483	ARM002	P8219 (3)	tooth	WangHaakNatComm2019	WangHaakNatComm2019	https://doi.org/10.1038/s41467-018-08220-8	..	Direct: IntCal20; R_Combine	4517	20
+
+  ▸ Missing ID: prs013/014_d.SG
+    Line: 17133
+    idlike failure: invalid chars ['/']
+    → CAUSE: Genetic ID contains chars outside [A-Za-z0-9._+-] → filtered by strict idlike
+    Context:
+      L17131: prs008/009_d.SG	51479	prs008/009	Primrose9	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	"Dir
+      L17132: prs013/014.SG	51480	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Direc
+  >>> L17133: prs013/014_d.SG	51481	prs013/014	Primrose13	tooth	Sánchez-QuintoJakobssonPNAS2019	Sánchez-QuintoJakobssonPNAS2019	https://doi.org/10.1073/pnas.1818037116	..	Dir
+      L17134: ARM002.AG	51483	ARM002	P8219 (3)	tooth	WangHaakNatComm2019	WangHaakNatComm2019	https://doi.org/10.1038/s41467-018-08220-8	..	Direct: IntCal20; R_Combine	4517	20
+      L17135: I12686.AG	51498	I12686	"Krivyansky IX, kurgan 4, burial 21, skeleton A"	petrous (cochlea)	LazaridisReichNature2025	LazaridisReichNature2025	https://doi.org/10.1
+
+------------------------------------------------------------------------
+2. DUPLICATE GENETIC IDs (in build parser output)
+------------------------------------------------------------------------
+  None found.
+
+------------------------------------------------------------------------
+3. COUNTRY → REGION AUDIT
+------------------------------------------------------------------------
+  Unique countries in data: 145
+  Unmapped (not in COUNTRY_REGION / EUROPE_CONTROL): 82
+
+  ⚠ UNMAPPED COUNTRIES (default → OUTGROUP — review if unexpected):
+    China                                 1479 → OUTGROUP
+    USA                                    588 → OUTGROUP
+    Turkey                                 548 → OUTGROUP
+    Pakistan                               518 → OUTGROUP
+    Mongolia                               287 → OUTGROUP
+    Argentina                              280 → OUTGROUP
+    Kazakhstan                             266 → OUTGROUP
+    India                                  236 → OUTGROUP
+    Armenia                                236 → OUTGROUP
+    Mexico                                 214 → OUTGROUP
+    Peru                                   180 → OUTGROUP
+    Japan                                  169 → OUTGROUP
+    Iran                                   151 → OUTGROUP
+    Dominican Republic                     132 → OUTGROUP
+    Puerto Rico                            130 → OUTGROUP
+    Vietnam                                126 → OUTGROUP
+    Colombia                               124 → OUTGROUP
+    Guam                                   106 → OUTGROUP
+    Sri Lanka                              103 → OUTGROUP
+    Turkmenistan                            99 → OUTGROUP
+    Barbados                                96 → OUTGROUP
+    Bangladesh                              88 → OUTGROUP
+    Brazil                                  87 → OUTGROUP
+    Papua New Guinea                        87 → OUTGROUP
+    Uzbekistan                              84 → OUTGROUP
+    Kyrgyzstan                              81 → OUTGROUP
+    Cuba                                    70 → OUTGROUP
+    Taiwan                                  55 → OUTGROUP
+    Nepal                                   48 → OUTGROUP
+    Thailand                                43 → OUTGROUP
+    Vanuatu                                 41 → OUTGROUP
+    Yemen                                   40 → OUTGROUP
+    Bahamas                                 37 → OUTGROUP
+    South Africa                            34 → OUTGROUP
+    Georgia                                 26 → OUTGROUP
+    Belize                                  24 → OUTGROUP
+    Greenland                               24 → OUTGROUP
+    Central African Republic                24 → OUTGROUP
+    Bolivia                                 21 → OUTGROUP
+    Chile                                   20 → OUTGROUP
+    Indonesia                               20 → OUTGROUP
+    Saint Helena                            20 → OUTGROUP
+    Tajikistan                              19 → OUTGROUP
+    Namibia                                 19 → OUTGROUP
+    Republic of Korea                       18 → OUTGROUP
+    Canada                                  18 → OUTGROUP
+    Palau                                   18 → OUTGROUP
+    Faroe Islands                           17 → OUTGROUP
+    Panama                                  16 → OUTGROUP
+    Iraq                                    15 → OUTGROUP
+    Channel Islands                         14 → OUTGROUP
+    Saint Lucia                             12 → OUTGROUP
+    Crimea                                  12 → OUTGROUP
+    Cambodia                                12 → OUTGROUP
+    Federated States of Micronesia          11 → OUTGROUP
+    Australia                               11 → OUTGROUP
+    Venezuela                                9 → OUTGROUP
+    Azerbaijan                               7 → OUTGROUP
+    Honduras                                 7 → OUTGROUP
+    Canary Islands                           5 → OUTGROUP
+    Malaysia                                 5 → OUTGROUP
+    Curacao                                  5 → OUTGROUP
+    Laos                                     4 → OUTGROUP
+    Guadeloupe                               4 → OUTGROUP
+    Tonga                                    4 → OUTGROUP
+    Botswana                                 4 → OUTGROUP
+    Bahrain                                  4 → OUTGROUP
+    Philippines                              3 → OUTGROUP
+    French Polynesia                         3 → OUTGROUP
+    Sint Maarten                             3 → OUTGROUP
+    Uruguay                                  2 → OUTGROUP
+    Haiti                                    2 → OUTGROUP
+    Abkhazia                                 2 → OUTGROUP
+    Myanmar                                  2 → OUTGROUP
+    Brunei                                   2 → OUTGROUP
+    Solomon Islands                          1 → OUTGROUP
+    Paraguay                                 1 → OUTGROUP
+    Bosnia-Herzegovina                       1 → OUTGROUP
+    New Zealand                              1 → OUTGROUP
+    Lesotho                                  1 → OUTGROUP
+    Angola                                   1 → OUTGROUP
+    Afghanistan                              1 → OUTGROUP
+
+  MAGHREB (total=134, analysis=122):
+    Tunisia                                 71  (analysis: 67)
+    Algeria                                 34  (analysis: 34)
+    Morocco                                 29  (analysis: 21)
+
+  IBERIA (total=946, analysis=882):
+    Spain                                  802  (analysis: 741)
+    Portugal                               140  (analysis: 137)
+    Gibraltar                                4  (analysis: 4)
+
+  LEVANT (total=391, analysis=352):
+    Israel                                 266  (analysis: 249)
+    Jordan                                  55  (analysis: 50)
+    Lebanon                                 45  (analysis: 35)
+    Syria                                   21  (analysis: 16)
+    Cyprus                                   4  (analysis: 2)
+
+  NORTH_AFRICA_EAST (total=71, analysis=67):
+    Sudan                                   67  (analysis: 65)
+    Egypt                                    4  (analysis: 2)
+
+------------------------------------------------------------------------
+4. LOW-N CELLS (analysis set)
+------------------------------------------------------------------------
+  Region × Layer — SPARSE (0 < n < 5):
+    IBERIA               × T3: n=1
+    IBERIA               × T4: n=3
+    NORTH_AFRICA_EAST    × T1: n=2
+    EUROPE_CONTROL       × T6: n=3
+    WEST_AFRICA          × T1: n=3
+    WEST_AFRICA          × T2: n=4
+    EAST_AFRICA          × T3: n=2
+
+  Region × Layer — EMPTY (n=0), target regions:
+    IBERIA               × T5
+    IBERIA               × T6
+    IBERIA               × UNDATED
+    MAGHREB              × T4
+    MAGHREB              × T5
+    MAGHREB              × T6
+    MAGHREB              × UNDATED
+    LEVANT               × T4
+    LEVANT               × T5
+    LEVANT               × T6
+    LEVANT               × UNDATED
+    NORTH_AFRICA_EAST    × T2
+    NORTH_AFRICA_EAST    × T3
+    NORTH_AFRICA_EAST    × T4
+    NORTH_AFRICA_EAST    × T5
+    NORTH_AFRICA_EAST    × T6
+    NORTH_AFRICA_EAST    × UNDATED
+
+  Population × Layer — SPARSE (target regions, 0 < n < 5):
+    Algeria_Afalou_Paleolithic               (MAGHREB) × T3: n=1
+    Algeria_KhenchelaCave_IA                 (MAGHREB) × T1: n=1
+    Algeria_Numidia_Roman_Berber             (MAGHREB) × T0: n=3
+    BedouinB_1                               (LEVANT) × T0: n=1
+    BedouinB_2                               (LEVANT) × T0: n=1
+    Cyprus_C                                 (LEVANT) × T1: n=1
+    Cyprus_PPNB                              (LEVANT) × T2: n=1
+    Egypt_AbusirelMeleq_ThirdIntermediatePeriod (NORTH_AFRICA_EAST) × T1: n=1
+    Egypt_Nuwayrat_EDynastic                 (NORTH_AFRICA_EAST) × T1: n=1
+    Gibraltar_EBA                            (IBERIA) × T1: n=3
+    Gibraltar_EN                             (IBERIA) × T2: n=1
+    IBS-1                                    (IBERIA) × T0: n=1
+    IBS_CanaryIslands                        (IBERIA) × T0: n=2
+    Israel_C                                 (LEVANT) × T2: n=1
+    Israel_IA                                (LEVANT) × T1: n=1
+    Israel_IA-o                              (LEVANT) × T1: n=1
+    Israel_IA1                               (LEVANT) × T1: n=2
+    Israel_IA1-o                             (LEVANT) × T1: n=1
+    Israel_IA2                               (LEVANT) × T1: n=3
+    Israel_IBA                               (LEVANT) × T1: n=1
+    Israel_LBA                               (LEVANT) × T1: n=4
+    Israel_LateC                             (LEVANT) × T1: n=4
+    Israel_LateC-2                           (LEVANT) × T2: n=1
+    Israel_MLBA-o                            (LEVANT) × T1: n=2
+    Israel_MLBA-oCaucasus                    (LEVANT) × T1: n=1
+    Israel_Medieval-oNorthAfrica             (LEVANT) × T0: n=2
+    Israel_PPNB_LN                           (LEVANT) × T2: n=1
+    Jordan_LBA-o                             (LEVANT) × T1: n=1
+    Jordan_PPNB_LN                           (LEVANT) × T2: n=1
+    Jordanian                                (LEVANT) × T0: n=3
+    Lebanon_Chhim_Medieval-o                 (LEVANT) × T0: n=1
+    Lebanon_Hellenistic                      (LEVANT) × T1: n=2
+    Lebanon_IA2                              (LEVANT) × T1: n=1
+    Lebanon_IA3-1                            (LEVANT) × T1: n=1
+    Lebanon_ImperialRoman                    (LEVANT) × T0: n=2
+    Lebanon_ImperialRoman                    (LEVANT) × T1: n=1
+    Lebanon_LateAntiquity_ImperialRoman_Roman (LEVANT) × T0: n=2
+    Lebanon_LateAntiquity_Roman              (LEVANT) × T0: n=1
+    Lebanon_MBA                              (LEVANT) × T1: n=4
+    Lebanon_Medieval-1                       (LEVANT) × T0: n=1
+    Lebanon_Medieval-2                       (LEVANT) × T0: n=2
+    Lebanon_Medieval-3                       (LEVANT) × T0: n=1
+    Lebanon_Medieval-4                       (LEVANT) × T0: n=1
+    Lebanon_Medieval-5                       (LEVANT) × T0: n=1
+    Lebanon_Roman                            (LEVANT) × T0: n=1
+    Morocco_EN                               (MAGHREB) × T1: n=1
+    Morocco_Epipaleolithic                   (MAGHREB) × T2: n=1
+    Morocco_KafTahtelGhar_Iberomaurusian     (MAGHREB) × T2: n=1
+    Morocco_LN                               (MAGHREB) × T1: n=2
+    Morocco_MN                               (MAGHREB) × T2: n=1
+    Morocco_N                                (MAGHREB) × T2: n=1
+    Portugal_C                               (IBERIA) × T0: n=1
+    Portugal_EBA                             (IBERIA) × T1: n=3
+    Portugal_EN_Cardial                      (IBERIA) × T2: n=2
+    Portugal_Gruta_do_Caldeirao_Medieval_Visigoth (IBERIA) × T0: n=2
+    Portugal_LBA                             (IBERIA) × T1: n=2
+    Portugal_LN                              (IBERIA) × T1: n=2
+    Portugal_LN_C-o                          (IBERIA) × T1: n=1
+    Portugal_LateAntiquity_ImperialRoman_Roman-oAfrica (IBERIA) × T0: n=1
+    Portugal_LateAntiquity_Roman-oAfrica     (IBERIA) × T0: n=1
+    Portugal_LateRoman                       (IBERIA) × T0: n=3
+    Portugal_MBA                             (IBERIA) × T1: n=4
+    Portugal_Megalithic_LN                   (IBERIA) × T1: n=2
+    Portugal_Mesolithic                      (IBERIA) × T2: n=1
+    Portugal_NapoleonicWar                   (IBERIA) × T0: n=2
+    Portugal_PostMedieval                    (IBERIA) × T0: n=1
+    Saharawi                                 (MAGHREB) × T0: n=2
+    Samaritan                                (LEVANT) × T0: n=1
+    Spain_Angostura_LateMiddleAges           (IBERIA) × T0: n=1
+    Spain_Antoncojo_EarlyMiddleAges          (IBERIA) × T0: n=1
+    Spain_Arenas_MiddleAges                  (IBERIA) × T0: n=1
+    Spain_Azilian                            (IBERIA) × T2: n=1
+    Spain_BA-oSteppe                         (IBERIA) × T1: n=1
+    Spain_BarrancoMajona_LateMiddleAges      (IBERIA) × T0: n=2
+    Spain_C-oAfrica                          (IBERIA) × T1: n=1
+    Spain_C_IA_c                             (IBERIA) × T1: n=3
+    Spain_Camino_de_las_Yeseras_MigrationPeriod_Visigoth (IBERIA) × T0: n=2
+    Spain_Cascajo_LateMiddleAges             (IBERIA) × T0: n=1
+    Spain_Classical_Greek-oAegean            (IBERIA) × T1: n=1
+    Spain_Cuermeja_LateMiddleAges            (IBERIA) × T0: n=1
+    Spain_EBA_African                        (IBERIA) × T1: n=1
+    Spain_EIA_Tartessian                     (IBERIA) × T1: n=1
+    Spain_EN-o                               (IBERIA) × T2: n=1
+    Spain_Early                              (IBERIA) × T1: n=1
+    Spain_ElAgujero_LateMiddleAges           (IBERIA) × T0: n=1
+    Spain_ElHormiguero_LateAntiquity         (IBERIA) × T0: n=1
+    Spain_ElHormiguero_MiddleAges            (IBERIA) × T0: n=2
+    Spain_ElPortillo_LateMiddleAges          (IBERIA) × T0: n=1
+    Spain_Emirate_Islamic                    (IBERIA) × T0: n=1
+    Spain_Estevillas_Virgen_de_la_Torre_MigrationPeriod_Visigoth (IBERIA) × T0: n=3
+    Spain_Gerian_MiddleAges                  (IBERIA) × T0: n=1
+    Spain_Gravettian                         (IBERIA) × T4: n=1
+    Spain_Guayadeque_EarlyMiddleAges         (IBERIA) × T0: n=1
+    Spain_Guayadeque_LateAntiquity           (IBERIA) × T0: n=3
+    Spain_HuertodelosMorales_LateAntiquity   (IBERIA) × T0: n=1
+    Spain_IA-o                               (IBERIA) × T1: n=2
+    Spain_IA_CeltIberian                     (IBERIA) × T1: n=4
+    Spain_IA_CeltIberian-o                   (IBERIA) × T1: n=1
+    Spain_IA_Tartessian                      (IBERIA) × T1: n=2
+    Spain_ImperialRoman-oAegean              (IBERIA) × T0: n=1
+    Spain_ImperialRoman-oAfrica              (IBERIA) × T0: n=1
+    Spain_ImperialRoman-oAfrica2             (IBERIA) × T0: n=1
+    Spain_ImperialRoman-oLocal               (IBERIA) × T0: n=3
+    Spain_ImperialRoman-oMixed               (IBERIA) × T0: n=3
+    Spain_Islamic                            (IBERIA) × T0: n=1
+    Spain_LBA-2                              (IBERIA) × T1: n=1
+    Spain_LBA_Menorca                        (IBERIA) × T1: n=1
+    Spain_LN_BA_LatePunic-oLNBA              (IBERIA) × T1: n=2
+    Spain_LaFortaleza_LateAntiquity          (IBERIA) × T0: n=1
+    Spain_LateAntiquity_ImperialRoman-oAfrica (IBERIA) × T0: n=2
+    Spain_LateAntiquity_ImperialRoman-oLocal (IBERIA) × T0: n=1
+    Spain_LateArchaic_Classical_Hellenistic-oLocal (IBERIA) × T1: n=2
+    Spain_LatePunic-1                        (IBERIA) × T1: n=1
+    Spain_LatePunic-oAfrica                  (IBERIA) × T1: n=2
+    Spain_LosPasitos_MiddleAges              (IBERIA) × T0: n=1
+    Spain_Los_Berrocales_MigrationPeriod_Visigoth (IBERIA) × T0: n=1
+    Spain_MLN                                (IBERIA) × T2: n=2
+    Spain_Magdalenian                        (IBERIA) × T3: n=1
+    Spain_Medieval-oNearEast                 (IBERIA) × T0: n=1
+    Spain_Medieval_Islamic_Zira              (IBERIA) × T0: n=3
+    Spain_Medieval_Visigoth                  (IBERIA) × T0: n=1
+    Spain_MontanaMina_MiddleAges             (IBERIA) × T0: n=1
+    Spain_MonterreyEstiviel_MigrationPeriod_Visigoth (IBERIA) × T0: n=1
+    Spain_NazariPeriod_African_Muslim        (IBERIA) × T0: n=1
+    Spain_NazariPeriod_LateMuslim            (IBERIA) × T0: n=2
+    Spain_NazariPeriod_Muslim-o              (IBERIA) × T0: n=1
+    Spain_Punic-2                            (IBERIA) × T1: n=2
+    Spain_Punic-oEurope                      (IBERIA) × T1: n=1
+    Spain_Punic_African                      (IBERIA) × T1: n=1
+    Spain_PuntaAzul_LateMiddleAges           (IBERIA) × T0: n=2
+    Spain_PuntaAzul_MiddleAges               (IBERIA) × T0: n=2
+    Spain_Roman-oAfrica1                     (IBERIA) × T0: n=1
+    Spain_Roman-oAfrica2                     (IBERIA) × T0: n=1
+    Spain_Roman-oAfrica3                     (IBERIA) × T0: n=1
+    Spain_Roman-oEurope                      (IBERIA) × T1: n=1
+    Spain_Roman-oEurope2                     (IBERIA) × T0: n=1
+    Spain_Roman_LateAntiquity-oAfrica        (IBERIA) × T0: n=2
+    Spain_Roman_LateAntiquity-oMixed         (IBERIA) × T0: n=1
+    Spain_SE_Iberia                          (IBERIA) × T1: n=2
+    Spain_SW_Iberia                          (IBERIA) × T1: n=1
+    Spain_SW_Iberia_BA                       (IBERIA) × T1: n=1
+    Spain_SW_Iberia_C-o                      (IBERIA) × T1: n=1
+    Spain_Salitre_MiddleAges                 (IBERIA) × T0: n=1
+    Spain_SaltoCasimiro_MiddleAges           (IBERIA) × T0: n=1
+    Spain_Solutrean                          (IBERIA) × T4: n=1
+    Spain_UP_HG                              (IBERIA) × T4: n=1
+    Spain_Zapateria_EBA_Argar                (IBERIA) × T1: n=1
+    Spanish-1                                (IBERIA) × T0: n=1
+    Sudan_Kulubnarti21R2_KulubnartiR_Christian-oNilotic (NORTH_AFRICA_EAST) × T0: n=2
+    Sudan_KulubnartiR_Christian-oNilotic     (NORTH_AFRICA_EAST) × T0: n=1
+    Sudan_KulubnartiS_Christian-oNilotic     (NORTH_AFRICA_EAST) × T0: n=2
+    Sudan_KulubnartiS_Christian-oWestEurasia (NORTH_AFRICA_EAST) × T0: n=1
+    Syria_EarlyMedieval_Byzantine_Byzantine  (LEVANT) × T0: n=1
+    Syria_Medieval-oAfrica                   (LEVANT) × T0: n=1
+    Syria_Umayyad                            (LEVANT) × T0: n=2
+    Tunisia_LN                               (MAGHREB) × T1: n=1
+    Tunisia_N                                (MAGHREB) × T2: n=2
+    Tunisia_N-1                              (MAGHREB) × T2: n=2
+    Tunisia_N-2                              (MAGHREB) × T2: n=3
+    Tunisia_Punic-oAfrica1                   (MAGHREB) × T1: n=4
+
+------------------------------------------------------------------------
+5. QC DISTRIBUTION
+------------------------------------------------------------------------
+  PASS                                18,545
+  PROVISIONAL_PASS                     2,908
+  QUESTIONABLE                           960
+  CRITICAL                               373
+  MERGE_PASS                             183
+  PROVISIONAL_CRITICAL                    83
+  PROVISIONAL_QUESTIONABLE                22
+  MERGE_QUESTIONABLE                       7
+  MERGE_CRITICAL                           2
+  ─────────────────────────────────── ──────
+  QC-eligible total                   21,453
+
+------------------------------------------------------------------------
+6. OUTPUT FILES
+------------------------------------------------------------------------
+  GT-002.1.audit-report.txt  — this report
+  GT-002.1.popxlayer.tsv     — population × layer (target regions)
+  GT-002.1.low-N-cells.tsv   — all sparse/empty cells

@@ -1,0 +1,185 @@
+type	region	population	layer	n
+region_sparse	IBERIA		T3	1
+region_sparse	IBERIA		T4	3
+region_sparse	NORTH_AFRICA_EAST		T1	2
+region_sparse	EUROPE_CONTROL		T6	3
+region_sparse	WEST_AFRICA		T1	3
+region_sparse	WEST_AFRICA		T2	4
+region_sparse	EAST_AFRICA		T3	2
+region_empty	IBERIA		T5	0
+region_empty	IBERIA		T6	0
+region_empty	IBERIA		UNDATED	0
+region_empty	MAGHREB		T4	0
+region_empty	MAGHREB		T5	0
+region_empty	MAGHREB		T6	0
+region_empty	MAGHREB		UNDATED	0
+region_empty	LEVANT		T4	0
+region_empty	LEVANT		T5	0
+region_empty	LEVANT		T6	0
+region_empty	LEVANT		UNDATED	0
+region_empty	NORTH_AFRICA_EAST		T2	0
+region_empty	NORTH_AFRICA_EAST		T3	0
+region_empty	NORTH_AFRICA_EAST		T4	0
+region_empty	NORTH_AFRICA_EAST		T5	0
+region_empty	NORTH_AFRICA_EAST		T6	0
+region_empty	NORTH_AFRICA_EAST		UNDATED	0
+pop_sparse	MAGHREB	Algeria_Afalou_Paleolithic	T3	1
+pop_sparse	MAGHREB	Algeria_KhenchelaCave_IA	T1	1
+pop_sparse	MAGHREB	Algeria_Numidia_Roman_Berber	T0	3
+pop_sparse	LEVANT	BedouinB_1	T0	1
+pop_sparse	LEVANT	BedouinB_2	T0	1
+pop_sparse	LEVANT	Cyprus_C	T1	1
+pop_sparse	LEVANT	Cyprus_PPNB	T2	1
+pop_sparse	NORTH_AFRICA_EAST	Egypt_AbusirelMeleq_ThirdIntermediatePeriod	T1	1
+pop_sparse	NORTH_AFRICA_EAST	Egypt_Nuwayrat_EDynastic	T1	1
+pop_sparse	IBERIA	Gibraltar_EBA	T1	3
+pop_sparse	IBERIA	Gibraltar_EN	T2	1
+pop_sparse	IBERIA	IBS-1	T0	1
+pop_sparse	IBERIA	IBS_CanaryIslands	T0	2
+pop_sparse	LEVANT	Israel_C	T2	1
+pop_sparse	LEVANT	Israel_IA	T1	1
+pop_sparse	LEVANT	Israel_IA-o	T1	1
+pop_sparse	LEVANT	Israel_IA1	T1	2
+pop_sparse	LEVANT	Israel_IA1-o	T1	1
+pop_sparse	LEVANT	Israel_IA2	T1	3
+pop_sparse	LEVANT	Israel_IBA	T1	1
+pop_sparse	LEVANT	Israel_LBA	T1	4
+pop_sparse	LEVANT	Israel_LateC	T1	4
+pop_sparse	LEVANT	Israel_LateC-2	T2	1
+pop_sparse	LEVANT	Israel_MLBA-o	T1	2
+pop_sparse	LEVANT	Israel_MLBA-oCaucasus	T1	1
+pop_sparse	LEVANT	Israel_Medieval-oNorthAfrica	T0	2
+pop_sparse	LEVANT	Israel_PPNB_LN	T2	1
+pop_sparse	LEVANT	Jordan_LBA-o	T1	1
+pop_sparse	LEVANT	Jordan_PPNB_LN	T2	1
+pop_sparse	LEVANT	Jordanian	T0	3
+pop_sparse	LEVANT	Lebanon_Chhim_Medieval-o	T0	1
+pop_sparse	LEVANT	Lebanon_Hellenistic	T1	2
+pop_sparse	LEVANT	Lebanon_IA2	T1	1
+pop_sparse	LEVANT	Lebanon_IA3-1	T1	1
+pop_sparse	LEVANT	Lebanon_ImperialRoman	T0	2
+pop_sparse	LEVANT	Lebanon_ImperialRoman	T1	1
+pop_sparse	LEVANT	Lebanon_LateAntiquity_ImperialRoman_Roman	T0	2
+pop_sparse	LEVANT	Lebanon_LateAntiquity_Roman	T0	1
+pop_sparse	LEVANT	Lebanon_MBA	T1	4
+pop_sparse	LEVANT	Lebanon_Medieval-1	T0	1
+pop_sparse	LEVANT	Lebanon_Medieval-2	T0	2
+pop_sparse	LEVANT	Lebanon_Medieval-3	T0	1
+pop_sparse	LEVANT	Lebanon_Medieval-4	T0	1
+pop_sparse	LEVANT	Lebanon_Medieval-5	T0	1
+pop_sparse	LEVANT	Lebanon_Roman	T0	1
+pop_sparse	MAGHREB	Morocco_EN	T1	1
+pop_sparse	MAGHREB	Morocco_Epipaleolithic	T2	1
+pop_sparse	MAGHREB	Morocco_KafTahtelGhar_Iberomaurusian	T2	1
+pop_sparse	MAGHREB	Morocco_LN	T1	2
+pop_sparse	MAGHREB	Morocco_MN	T2	1
+pop_sparse	MAGHREB	Morocco_N	T2	1
+pop_sparse	IBERIA	Portugal_C	T0	1
+pop_sparse	IBERIA	Portugal_EBA	T1	3
+pop_sparse	IBERIA	Portugal_EN_Cardial	T2	2
+pop_sparse	IBERIA	Portugal_Gruta_do_Caldeirao_Medieval_Visigoth	T0	2
+pop_sparse	IBERIA	Portugal_LBA	T1	2
+pop_sparse	IBERIA	Portugal_LN	T1	2
+pop_sparse	IBERIA	Portugal_LN_C-o	T1	1
+pop_sparse	IBERIA	Portugal_LateAntiquity_ImperialRoman_Roman-oAfrica	T0	1
+pop_sparse	IBERIA	Portugal_LateAntiquity_Roman-oAfrica	T0	1
+pop_sparse	IBERIA	Portugal_LateRoman	T0	3
+pop_sparse	IBERIA	Portugal_MBA	T1	4
+pop_sparse	IBERIA	Portugal_Megalithic_LN	T1	2
+pop_sparse	IBERIA	Portugal_Mesolithic	T2	1
+pop_sparse	IBERIA	Portugal_NapoleonicWar	T0	2
+pop_sparse	IBERIA	Portugal_PostMedieval	T0	1
+pop_sparse	MAGHREB	Saharawi	T0	2
+pop_sparse	LEVANT	Samaritan	T0	1
+pop_sparse	IBERIA	Spain_Angostura_LateMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Antoncojo_EarlyMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Arenas_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Azilian	T2	1
+pop_sparse	IBERIA	Spain_BA-oSteppe	T1	1
+pop_sparse	IBERIA	Spain_BarrancoMajona_LateMiddleAges	T0	2
+pop_sparse	IBERIA	Spain_C-oAfrica	T1	1
+pop_sparse	IBERIA	Spain_C_IA_c	T1	3
+pop_sparse	IBERIA	Spain_Camino_de_las_Yeseras_MigrationPeriod_Visigoth	T0	2
+pop_sparse	IBERIA	Spain_Cascajo_LateMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Classical_Greek-oAegean	T1	1
+pop_sparse	IBERIA	Spain_Cuermeja_LateMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_EBA_African	T1	1
+pop_sparse	IBERIA	Spain_EIA_Tartessian	T1	1
+pop_sparse	IBERIA	Spain_EN-o	T2	1
+pop_sparse	IBERIA	Spain_Early	T1	1
+pop_sparse	IBERIA	Spain_ElAgujero_LateMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_ElHormiguero_LateAntiquity	T0	1
+pop_sparse	IBERIA	Spain_ElHormiguero_MiddleAges	T0	2
+pop_sparse	IBERIA	Spain_ElPortillo_LateMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Emirate_Islamic	T0	1
+pop_sparse	IBERIA	Spain_Estevillas_Virgen_de_la_Torre_MigrationPeriod_Visigoth	T0	3
+pop_sparse	IBERIA	Spain_Gerian_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Gravettian	T4	1
+pop_sparse	IBERIA	Spain_Guayadeque_EarlyMiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Guayadeque_LateAntiquity	T0	3
+pop_sparse	IBERIA	Spain_HuertodelosMorales_LateAntiquity	T0	1
+pop_sparse	IBERIA	Spain_IA-o	T1	2
+pop_sparse	IBERIA	Spain_IA_CeltIberian	T1	4
+pop_sparse	IBERIA	Spain_IA_CeltIberian-o	T1	1
+pop_sparse	IBERIA	Spain_IA_Tartessian	T1	2
+pop_sparse	IBERIA	Spain_ImperialRoman-oAegean	T0	1
+pop_sparse	IBERIA	Spain_ImperialRoman-oAfrica	T0	1
+pop_sparse	IBERIA	Spain_ImperialRoman-oAfrica2	T0	1
+pop_sparse	IBERIA	Spain_ImperialRoman-oLocal	T0	3
+pop_sparse	IBERIA	Spain_ImperialRoman-oMixed	T0	3
+pop_sparse	IBERIA	Spain_Islamic	T0	1
+pop_sparse	IBERIA	Spain_LBA-2	T1	1
+pop_sparse	IBERIA	Spain_LBA_Menorca	T1	1
+pop_sparse	IBERIA	Spain_LN_BA_LatePunic-oLNBA	T1	2
+pop_sparse	IBERIA	Spain_LaFortaleza_LateAntiquity	T0	1
+pop_sparse	IBERIA	Spain_LateAntiquity_ImperialRoman-oAfrica	T0	2
+pop_sparse	IBERIA	Spain_LateAntiquity_ImperialRoman-oLocal	T0	1
+pop_sparse	IBERIA	Spain_LateArchaic_Classical_Hellenistic-oLocal	T1	2
+pop_sparse	IBERIA	Spain_LatePunic-1	T1	1
+pop_sparse	IBERIA	Spain_LatePunic-oAfrica	T1	2
+pop_sparse	IBERIA	Spain_LosPasitos_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Los_Berrocales_MigrationPeriod_Visigoth	T0	1
+pop_sparse	IBERIA	Spain_MLN	T2	2
+pop_sparse	IBERIA	Spain_Magdalenian	T3	1
+pop_sparse	IBERIA	Spain_Medieval-oNearEast	T0	1
+pop_sparse	IBERIA	Spain_Medieval_Islamic_Zira	T0	3
+pop_sparse	IBERIA	Spain_Medieval_Visigoth	T0	1
+pop_sparse	IBERIA	Spain_MontanaMina_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_MonterreyEstiviel_MigrationPeriod_Visigoth	T0	1
+pop_sparse	IBERIA	Spain_NazariPeriod_African_Muslim	T0	1
+pop_sparse	IBERIA	Spain_NazariPeriod_LateMuslim	T0	2
+pop_sparse	IBERIA	Spain_NazariPeriod_Muslim-o	T0	1
+pop_sparse	IBERIA	Spain_Punic-2	T1	2
+pop_sparse	IBERIA	Spain_Punic-oEurope	T1	1
+pop_sparse	IBERIA	Spain_Punic_African	T1	1
+pop_sparse	IBERIA	Spain_PuntaAzul_LateMiddleAges	T0	2
+pop_sparse	IBERIA	Spain_PuntaAzul_MiddleAges	T0	2
+pop_sparse	IBERIA	Spain_Roman-oAfrica1	T0	1
+pop_sparse	IBERIA	Spain_Roman-oAfrica2	T0	1
+pop_sparse	IBERIA	Spain_Roman-oAfrica3	T0	1
+pop_sparse	IBERIA	Spain_Roman-oEurope	T1	1
+pop_sparse	IBERIA	Spain_Roman-oEurope2	T0	1
+pop_sparse	IBERIA	Spain_Roman_LateAntiquity-oAfrica	T0	2
+pop_sparse	IBERIA	Spain_Roman_LateAntiquity-oMixed	T0	1
+pop_sparse	IBERIA	Spain_SE_Iberia	T1	2
+pop_sparse	IBERIA	Spain_SW_Iberia	T1	1
+pop_sparse	IBERIA	Spain_SW_Iberia_BA	T1	1
+pop_sparse	IBERIA	Spain_SW_Iberia_C-o	T1	1
+pop_sparse	IBERIA	Spain_Salitre_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_SaltoCasimiro_MiddleAges	T0	1
+pop_sparse	IBERIA	Spain_Solutrean	T4	1
+pop_sparse	IBERIA	Spain_UP_HG	T4	1
+pop_sparse	IBERIA	Spain_Zapateria_EBA_Argar	T1	1
+pop_sparse	IBERIA	Spanish-1	T0	1
+pop_sparse	NORTH_AFRICA_EAST	Sudan_Kulubnarti21R2_KulubnartiR_Christian-oNilotic	T0	2
+pop_sparse	NORTH_AFRICA_EAST	Sudan_KulubnartiR_Christian-oNilotic	T0	1
+pop_sparse	NORTH_AFRICA_EAST	Sudan_KulubnartiS_Christian-oNilotic	T0	2
+pop_sparse	NORTH_AFRICA_EAST	Sudan_KulubnartiS_Christian-oWestEurasia	T0	1
+pop_sparse	LEVANT	Syria_EarlyMedieval_Byzantine_Byzantine	T0	1
+pop_sparse	LEVANT	Syria_Medieval-oAfrica	T0	1
+pop_sparse	LEVANT	Syria_Umayyad	T0	2
+pop_sparse	MAGHREB	Tunisia_LN	T1	1
+pop_sparse	MAGHREB	Tunisia_N	T2	2
+pop_sparse	MAGHREB	Tunisia_N-1	T2	2
+pop_sparse	MAGHREB	Tunisia_N-2	T2	3
+pop_sparse	MAGHREB	Tunisia_Punic-oAfrica1	T1	4
