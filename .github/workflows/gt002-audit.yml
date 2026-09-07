@@ -1,0 +1,26 @@
+name: GT-002.1 Cohort Audit
+
+on:
+  push:
+    paths:
+      - 'gt002/audit_cohort.py'
+      - '.github/workflows/gt002-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run audit
+        run: python3 gt002/audit_cohort.py
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gt002/audit/
+          git commit -m "GT-002.1: cohort audit results [skip ci]" || echo "No changes"
+          git push
