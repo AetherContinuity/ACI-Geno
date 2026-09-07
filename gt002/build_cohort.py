@@ -52,6 +52,8 @@ OUTPUTS (written next to the script / Colab working dir)
 import os
 import sys
 import re
+import csv
+import io
 import hashlib
 import urllib.request
 from collections import Counter, defaultdict
@@ -313,53 +315,46 @@ def idlike(s):
 
 
 def parse_records(text):
-    lines = text.split("\n")
-    if lines and lines[-1] == "":
-        lines.pop()
-    # Auto-detect column count N = most common field count among "wide" lines.
-    cnt = Counter(len(l.split("\t")) for l in lines)
+    """Parse AADR .anno text into (header_fields, data_records, N).
+
+    Uses csv.reader to properly handle double-quoted fields that contain
+    embedded newlines — the #1 cause of dropped records in v66.p1 which
+    has ~23k samples but the old manual tab-splitter only found ~3.4k.
+    """
+    reader = csv.reader(io.StringIO(text), delimiter='\t', quotechar='"')
+    rows = list(reader)
+    if not rows:
+        return [], [], FALLBACK_NCOLS
+
+    # Auto-detect column count N = most common field count among "wide" rows.
+    cnt = Counter(len(r) for r in rows)
     wide = {k: v for k, v in cnt.items() if k >= 20}
     N = max(wide, key=wide.get) if wide else FALLBACK_NCOLS
     print(f"[parse] detected column count N = {N} (from field-count mode)")
 
-    # The header may span several physical lines (long descriptions with embedded
-    # newlines). Every data record STARTS with a Genetic ID, so the first line
+    # The header may span several logical rows (long descriptions with embedded
+    # newlines). Every data record STARTS with a Genetic ID, so the first row
     # whose first field looks like a Genetic ID marks the start of data.
     first_data = -1
-    for i, ln in enumerate(lines):
-        if idlike(ln.split("\t")[0]):
+    for i, row in enumerate(rows):
+        if row and idlike(row[0]):
             first_data = i
             break
     if first_data < 0:
-        print("[parse] WARNING: no Genetic-ID-like line found; line 0 treated as header")
+        print("[parse] WARNING: no Genetic-ID-like row found; row 0 treated as header")
         first_data = 0
-    header_fields = "\n".join(lines[:first_data]).split("\t")
-    print(f"[parse] header = physical lines [0:{first_data}] -> {len(header_fields)} fields")
 
-    # Accumulate data records. A record has exactly N tab fields; if a cell
-    # contains a newline a record can span physical lines. We re-sync on every
-    # new Genetic-ID line (flush the buffer when one appears).
-    data = []
-    buf = ""
-    for ln in lines[first_data:]:
-        if idlike(ln.split("\t")[0]) and buf:
-            data.append(buf)
-            buf = ""
-        cand = (buf + "\n" + ln) if buf else ln
-        nf = len(cand.split("\t"))
-        if nf == N:
-            data.append(cand)
-            buf = ""
-        elif nf > N:
-            parts = cand.split("\t")
-            data.append("\t".join(parts[:N]))
-            buf = "\t".join(parts[N:])
-        else:
-            buf = cand
-    if buf.strip():
-        data.append(buf)
-    # keep only clean, N-field records that start with a Genetic ID
-    data = [d for d in data if len(d.split("\t")) == N and idlike(d.split("\t")[0])]
+    # Header: flatten all pre-data rows into one field list
+    header_fields = []
+    for row in rows[:first_data]:
+        header_fields.extend(row)
+    print(f"[parse] header = rows [0:{first_data}] -> {len(header_fields)} fields")
+
+    # Data: keep only N-field rows that start with a Genetic ID.
+    # csv.reader already assembled multi-line quoted fields, so each row
+    # is a complete record — no manual buffering needed.
+    data = ["\t".join(row) for row in rows[first_data:]
+            if len(row) == N and idlike(row[0])]
     print(f"[parse] assembled {len(data):,} data records")
     return header_fields, data, N
 
