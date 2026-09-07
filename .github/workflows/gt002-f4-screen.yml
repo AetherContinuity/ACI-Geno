@@ -115,6 +115,8 @@ jobs:
         shell: Rscript {0}
 
       - name: Install ADMIXTOOLS2 from GitHub
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # dependencies = TRUE installs all Imports from CRAN
           # upgrade = "never" avoids upgrading already-installed packages
