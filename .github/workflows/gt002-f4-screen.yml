@@ -1,0 +1,162 @@
+# ==========================================================================
+# GT-002.2 — f4/D Screen GitHub Actions Workflow
+# ==========================================================================
+# Copy this file to:  .github/workflows/gt002-f4-screen.yml
+#
+# Triggers:
+#   - Manual (workflow_dispatch)
+#   - Push to gt002/prep_gt002_2.py, gt002/run_f4_screen.R, or this workflow
+# ==========================================================================
+
+name: GT-002.2 f4 Screen
+
+on:
+  push:
+    paths:
+      - 'gt002/prep_gt002_2.py'
+      - 'gt002/run_f4_screen.R'
+      - '.github/workflows/gt002-f4-screen.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  f4-screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check disk space (initial)
+        run: df -h /
+
+      - name: Free disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc \
+                      /opt/hostedtoolcache/CodeQL /usr/local/.ghcup
+          echo "After cleanup:"
+          df -h /
+
+      - name: Run prep_gt002_2.py
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          python3 gt002/prep_gt002_2.py
+
+      - name: Show prep summary
+        run: |
+          echo "=== Population labels ==="
+          cat gt002/popinv/GT-002.2.pop_labels.tsv || echo "NOT FOUND"
+          echo ""
+          echo "=== f4 test count ==="
+          wc -l gt002/popinv/GT-002.2.f4_tests.tsv || echo "NOT FOUND"
+
+      - name: Commit prep results
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gt002/popinv/
+          if git diff --cached --quiet; then
+            echo "No prep changes to commit"
+          else
+            git commit -m "GT-002.2: population inventory [skip ci]"
+            git push
+          fi
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            build-essential \
+            gfortran \
+            libgsl-dev \
+            libxml2-dev \
+            libcurl4-openssl-dev \
+            libssl-dev \
+            libglpk-dev \
+            libgmp-dev \
+            libfontconfig1-dev \
+            libharfbuzz-dev \
+            libfribidi-dev \
+            libfreetype6-dev \
+            libpng-dev \
+            libtiff-dev \
+            libjpeg-dev
+
+      - name: Install R packages (data.table, remotes)
+        run: |
+          install.packages(c("data.table", "remotes"))
+        shell: Rscript {0}
+
+      - name: Install ADMIXTOOLS2 from GitHub
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          remotes::install_github("uqrmaie1/admixtools", dependencies = TRUE, upgrade = "never")
+        shell: Rscript {0}
+
+      - name: Verify ADMIXTOOLS2 installation
+        run: |
+          library(admixtools)
+          cat("ADMIXTOOLS2 loaded successfully\n")
+          packageVersion("admixtools")
+        shell: Rscript {0}
+
+      - name: Download genotype files
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          echo "Downloading .ind (1 MB)..."
+          wget -q -O v66.p1_1240K.aadr.patch.PUB.ind \
+            "https://dataverse.harvard.edu/api/access/datafile/13994513"
+
+          echo "Downloading .snp (78 MB)..."
+          wget -q -O v66.p1_1240K.aadr.patch.PUB.snp \
+            "https://dataverse.harvard.edu/api/access/datafile/13994514"
+
+          echo "Downloading .geno (7.1 GB)..."
+          wget -q -O v66.p1_1240K.aadr.patch.PUB.geno \
+            "https://dataverse.harvard.edu/api/access/datafile/13994829"
+
+          echo "Download complete. File sizes:"
+          ls -lh v66.p1_1240K.aadr.patch.PUB.{geno,ind,snp}
+
+      - name: Check disk space (after download)
+        run: df -h /
+
+      - name: Run f4 screen
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          set -o pipefail
+          Rscript gt002/run_f4_screen.R 2>&1 | tee f4_screen.log
+
+      - name: Check disk space (after f4)
+        run: df -h /
+
+      - name: Commit results
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gt002/f4_results/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "GT-002.2: f4 screen results [skip ci]"
+            git push
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gt002-f4-results
+          path: |
+            gt002/popinv/*.tsv
+            gt002/f4_results/*.tsv
+            f4_screen.log
+          retention-days: 30
