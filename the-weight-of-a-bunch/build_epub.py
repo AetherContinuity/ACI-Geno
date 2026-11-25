@@ -25,6 +25,7 @@ PARTS = [
     ('Part Two: The Warm Moss', [('ch02.md', [0, 1]), ('ch05.md', [0])]),
     ('Part Three: The Receipts', [('ch03.md', [0, 1]), ('ch06.md', [0, 1]), ('ch03.md', [2, 3, 4])]),
     ('Part Four: The Nameless Day', [('ch04.md', [0, 1, 2]), ('ch06.md', [2]), ('ch04.md', [3, 4])]),
+    ('Part Five: The Winter Account', [('ch07.md', [0, 1, 2, 3, 4])]),
 ]
 
 

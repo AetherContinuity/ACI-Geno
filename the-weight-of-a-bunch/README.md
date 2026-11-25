@@ -8,7 +8,7 @@ landscape (Mustakorpi, Puijo, greenhouse 3 row 14, bunch 1/2033, the snowman,
 the audit office) and carrying forward the source tradition where the elder
 capuchin left it: *what is eaten is eaten*.
 
-- **Length:** ~15,000 words, 19 numbered chapters in four parts
+- **Length:** ~18,600 words, 24 numbered chapters in 5 parts
 - **Narrator:** Akseli Hämäläinen, junior frost-maintenance man of the State of
   Bannanivaltio
 - **Delivery:** `the-weight-of-a-bunch.epub` (EPUB 3), plus Markdown sources
@@ -16,7 +16,7 @@ capuchin left it: *what is eaten is eaten*.
 ## Layout
 
 - `front.md` — title page and author's note
-- `chapters/ch01.md` … `ch06.md` — chapter sources (part headers included)
+- `chapters/ch01.md` … `ch07.md` — chapter sources (part headers included)
 - `build_epub.py` — Python (stdlib only) EPUB 3 packager
 - `the-weight-of-a-bunch.epub` — compiled book
 
