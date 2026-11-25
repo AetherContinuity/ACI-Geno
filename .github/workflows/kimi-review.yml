@@ -1,0 +1,29 @@
+name: Kimi review (The Nameless Day)
+
+on:
+  push:
+    branches: [kerho/kimi-arvio]
+    paths:
+      - 'tools/kimi_review.py'
+      - '.github/workflows/kimi-review.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ask kimi-k3.1-pro for a review
+        env:
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+        run: python3 tools/kimi_review.py
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add the-nameless-day/reviews
+          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Kimi review: tulos [skip ci]"; git push; fi
