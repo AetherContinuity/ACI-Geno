@@ -17,8 +17,10 @@ capuchin left it: *what is eaten is eaten*.
 
 - `front.md` — title page and author's note
 - `chapters/ch01.md` … `ch07.md` — chapter sources (part headers included)
+- `cover.jpg`, `cover_gen.py` — generated cover (1600×2560) and its generator
+- `tiivistelma-fi.md` — Finnish administrative abstract (hallintokäyttöön): source relationship, plot outline, quality notes
 - `build_epub.py` — Python (stdlib only) EPUB 3 packager
-- `the-weight-of-a-bunch.epub` — compiled book
+- `the-weight-of-a-bunch.epub` — compiled book with cover
 
 ## Build
 

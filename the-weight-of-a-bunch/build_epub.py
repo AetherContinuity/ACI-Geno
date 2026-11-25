@@ -130,6 +130,8 @@ hr { border: 0; border-top: 1px solid #999; margin: 2em 15%; }
 .titlepage h1 { margin-top: 6em; font-size: 2.1em; }
 .titlepage p { text-indent: 0; }
 .colophon p { text-indent: 0; font-size: 0.9em; }
+img.cover { width: 100%; height: auto; }
+.coverp { text-indent: 0; margin: 0; }
 .part p, .part h1 { text-indent: 0; text-align: center; }
 .part h1 { margin-top: 8em; font-size: 1.5em; letter-spacing: 0.06em; }
 '''
@@ -146,7 +148,9 @@ def main():
 
     note_body = md_to_html(note_md)
 
-    docs = [('titlepage', 'Title Page', title_body, 'frontmatter titlepage'),
+    cover_body = '<p class="coverp"><img class="cover" src="../media/cover.jpg" alt="Cover: The Weight of a Bunch"/></p>'
+    docs = [('cover', 'Cover', cover_body, 'cover'),
+            ('titlepage', 'Title Page', title_body, 'frontmatter titlepage'),
             ('note', 'A Note on This Book', note_body, 'frontmatter colophon')]
 
     chapter_no = 0
@@ -182,6 +186,7 @@ def main():
                  'media-type="application/oebps-package+xml"/></rootfiles></container>')
 
     manifest_items = ['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
+                      '<item id="cover-image" href="media/cover.jpg" media-type="image/jpeg" properties="cover-image"/>',
                       '<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>',
                       '<item id="css" href="style.css" media-type="text/css"/>']
     spine_items = []
@@ -204,7 +209,9 @@ def main():
            '    <dc:description>An independent English-language novel inspired by the Bannanivaltio '
            'chronicles. Not a translation.</dc:description>\n'
            '    <dc:source>https://github.com/AetherContinuity/ACI-Geno</dc:source>\n'
-           '    <meta property="dcterms:modified">%s</meta>\n  </metadata>\n  <manifest>\n'
+           '    <meta property="dcterms:modified">%s</meta>\n'
+           '    <meta name="cover" content="cover-image"/>\n'
+           '  </metadata>\n  <manifest>\n'
            '%s\n  </manifest>\n  <spine toc="ncx">\n%s\n  </spine>\n</package>\n'
            % (LANG, BOOK_ID, TITLE, SUBTITLE, LANG, MODIFIED,
               '\n'.join('    ' + m for m in manifest_items),
@@ -230,6 +237,8 @@ def main():
         z.writestr('OEBPS/nav.xhtml', nav)
         z.writestr('OEBPS/toc.ncx', ncx)
         z.writestr('OEBPS/style.css', STYLE)
+        with open(os.path.join(HERE, 'cover.jpg'), 'rb') as cimg:
+            z.writestr('OEBPS/media/cover.jpg', cimg.read())
         for cid, doctitle, body, btype in docs:
             z.writestr('OEBPS/text/%s.xhtml' % cid, xhtml(doctitle, body, cid, btype))
     print('wrote %s (%d documents, %d numbered chapters)' % (OUT, len(docs), chapter_no))
