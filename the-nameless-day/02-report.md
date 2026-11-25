@@ -993,3 +993,59 @@ No one answered. The log could not record a day that had no name, so it could no
 I recorded the answer of the eldest. Then I recorded the date, by the state calendar, because procedure required it: the ninth day of the Month of Promise, Follow-on Funding Day.
 
 The sunglasses stayed on the dock. No one took them.
+
+---
+
+## Winter, Afterwards
+
+*Recorder's note, the tenth day of the Month of Promise and after*
+
+The insurer accepted Hargreaves's *force majeure* opinion three days after the dock. The opinion had arrived from London by email and reached the insurer before Strömberg's report. No compensation was paid.
+
+The Ministry of Finance took note of the decision.
+
+BANA added a new line to its balance sheet:
+
+| Item | Value (BU) | Availability |
+|---|--:|---|
+| Bunch 1/2033, lost | 0 | Not available, as rotten |
+
+It was the first line in BANA's history that corresponded to reality. K. Kapusiini signed it himself, under the heading *Banana State*, with one *n*.
+
+The final statement stayed in Brussels. The Standing Committee met in December and found the situation unchanged. Dupré did not move the folder. He opened a second one beside it, filed under *Bananna State*, and put in it a reference to the first. There are now two folders in the archive, and both can be found.
+
+Since pages 41–44 could not be attached to the inspection report, BANA approved a new official final statement for it. It was one line long:
+
+> *The bunch ripened. The bunch rotted. The counting continued.*
+
+---
+
+The frost-maintenance officer's notebook was returned to him from binder 6 with a covering letter. The Frost Maintenance Office thanked him for his observations and informed him that point 17 had been added to the list of points measured as standard. The Remarks column had been removed from the form, as unnecessary.
+
+---
+
+Strömberg left on the morning train. He left the Swedish statement on the dock beside the sunglasses. He said that the statement had been addressed to the bunch and therefore belonged at the scene.
+
+His report reached the Haparanda customs office a week later. It ran to thirty-four pages. Because it came from the Bananna State, it was cleared at the border under heading 4901, printed books and brochures. The clearance was carried out by Strömberg's own office. He signed for it himself.
+
+---
+
+We left last. The Ministry of the Future had still not cancelled our commission, but there was no longer anything to assess. The harvesting protocol had not been needed.
+
+We drove home to the lake. It was already dark. The dock was under snow, and we left it as it was.
+
+V. took the scarf from his pocket and hung it on the nail in the sauna porch, where there was room for it.
+
+We sat in the kitchen for a while. No one recorded anything.
+
+"Shall we heat the sauna?" I asked.
+
+V. looked out of the window at the lake, under which the water was moving, though no one could see it.
+
+"Let's."
+
+---
+
+*Inspection Report 1/IX ends.*
+
+*Recorded by: K.*
