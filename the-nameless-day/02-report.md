@@ -592,3 +592,166 @@ Before I went to bed I wrote one more line, in my own notebook, not in the repor
 ~~*The heat was foreseeable. It was in the graph.*~~
 
 I crossed it out, because it was not the recorder's task.
+
+---
+
+## Nameless Day
+
+*Recorder's note, the eighth day of the Month of Promise, Impact Day (15.11.2034)*
+
+In the morning the radio was talking about a hurricane.
+
+It had been named Marisol, and it had come ashore on the north coast of Honduras two days earlier. The Sula valley was under water. According to the news, about two thirds of the country's banana plantations had been destroyed, and hundreds of people were dead. The number grew with every bulletin.
+
+Storms are given their names in advance, from lists drawn up years before. No storm has ever had to wait for one.
+
+Paredes listened to the news in the lodge kitchen, where he had come for morning coffee for the first time. His own plantations were in El Oro, in another country, on another coast. He called home anyway. The call was long, and he spoke quietly. Afterwards he sat at the table with the cup in his hands and did not drink.
+
+I did not record the call. It did not concern the investigation.
+
+---
+
+At nine Hargreaves's phone rang. He listened standing up, said *yes* three times and *of course* once, and ended the call.
+
+"I have been recalled," he said. "The reinsurer has losses in Honduras that are larger than this."
+
+He packed his bag in ten minutes. At the door he shook Strömberg's hand for as long as he had on arriving.
+
+"I shall send my *force majeure* opinion from the airport. You need not agree with it."
+
+"I do not," Strömberg said.
+
+Hargreaves nodded, as if that had been expected. Then he looked out of the window at Greenhouse 3.
+
+"Something happened there," he said. "Nothing happened here."
+
+The taxi took him to the airport.
+
+I recorded: *Hargreaves has left. There is one investigator.*
+
+---
+
+At ten Strömberg called Haparanda to report. The call was short. When it ended he sat for a moment without speaking.
+
+"The world market price of bananas has risen forty per cent in two days," he said. "The book value of the pledge has risen in the same proportion. Haparanda is pleased."
+
+"The bunch is rotten," I said.
+
+"The pledge is not the bunch," he said. "The pledge is paper."
+
+He did not say it with pleasure.
+
+---
+
+In the afternoon he went back to his timeline. He had decided to make a fair copy before the hearing of the Ministry of Finance. He went through the minutes again and set them out as a table, day by day, by the state calendar, as procedure required:
+
+| State calendar | Body | Decision |
+|---|---|---|
+| Month of Reporting 25, Consultation Day | Swedish Customs | Pledgee's statement sent by post |
+| Month of Reporting 26, Steering Group Day | Steering group for the bunch | Harvest once ownership is clear |
+| Month of Reporting 27, Interim Report Day | Monitoring group | Ripening proceeding according to plan |
+| Month of Reporting 28, Impact Day | BANA | New classification KKO |
+| Month of Reporting 29, Follow-on Funding Day | Ministry of Finance | KKO pledged for follow-on funding |
+| Month of Reporting 30, Establishment Day | Steering group for the bunch | Harvest to await independent assessment of the harvesting protocol (commissioned from the Ministry of the Future) |
+| Additional Day 1 | Ministry of the Future | Banana 3.0 published; bunch a flagship project |
+| Additional Day 2 | Project preparation | Harvesting project application submitted |
+| Additional Day 3 | Steering group for the harvesting project | Established |
+| Additional Day 4 | Insurer | Compensation terms await funding decision |
+| Additional Day 5 | Standing Committee | Situation unchanged |
+| Month of Promise 1, IX | – | Bunch dead |
+
+He counted the rows. Twelve.
+
+Then he counted the Gregorian days from the twenty-seventh of October to the eighth of November. There were thirteen.
+
+He counted again and got the same result.
+
+"A day is missing from the table," he said.
+
+He took out Decree 1/I, which had come with the binders as an annex, and read it section by section. He stopped at section 5 and read it aloud.
+
+"*Every fourth year there is a sixth additional day. Its name shall be laid down separately.*"
+
+He looked at me.
+
+"Has it been laid down?"
+
+"No," I said.
+
+"Year VIII is divisible by four."
+
+"Yes."
+
+"So Year VIII had a sixth additional day with no name."
+
+"Yes."
+
+He took the page of the Dock Book on which the Association's entry for 7.11. stood, and beside which I had written a question mark. He looked at the question mark for a long time.
+
+"You marked this as an error."
+
+"The conversion table is based on named days," I said. "That day had no name."
+
+"So the day did not exist."
+
+"Not according to the table."
+
+He wrote nothing in his notebook. On the timeline he drew a line between Additional Day 5 and the first day of the Month of Promise. He wrote nothing beside the line, because there was no name to write.
+
+---
+
+"What happened on that day?" he asked.
+
+No one answered, because the only ones who knew were sitting on Loading Dock 4.
+
+He asked Paredes, who had come into the kitchen for the second time that day. Paredes looked at the timeline and at the empty place on it, and his voice was tired.
+
+"El siete," he said. "El último día. Todavía se podía comer."
+
+I understood the sentence. *Siete* is seven. *Último* is last. *Comer* is to eat. I knew what he had said.
+
+The translation had been commissioned from the Ministry of the Future on the sixth day of the Month of Promise. A recorder has no authority to bypass a pending commission. I recorded:
+
+*Witness answered in Spanish. Translation pending.*
+
+Strömberg looked at me.
+
+"Did you understand?"
+
+"The translation is pending," I said.
+
+That was true.
+
+---
+
+In the evening Strömberg sat alone at the timeline. The hearing of the Ministry of Finance was the next day. He had a motive, a contract, a beneficiary and twelve alibis.
+
+He took out the IAEA record and read the footnote, which he had not read before, because it was a footnote. Then he looked at the snowman's sunglasses, which he had brought from the north gate that afternoon and placed on the table as evidence.
+
+"Two instruments," he said. "At the same time, on the same glass."
+
+He sat still for a while. Then he took binder 6 from the shelf, opened the frost man's notebook at the page for point 17 and, for the first time, read the figures instead of the remarks. He ran his finger down the column until it stopped at the twenty-seventh of October.
+
+"Three," he said.
+
+Then he said the sentence I recorded word for word, because it was the first time he doubted his own method:
+
+"I have investigated this according to the state calendar. In the state calendar every day has a meeting. A day with no meeting does not exist. A day on which someone simply does something does not exist."
+
+He tapped the empty line.
+
+"This is not a timeline. It is a procedure."
+
+He was silent for a moment.
+
+"I have not been investigating this in spite of the wrong documents. I have been investigating it by means of them."
+
+Then he took the Swedish statement from his breast pocket, opened the envelope and read it for the third time. This time he looked at the date.
+
+I recorded: *Strömberg examined a document.*
+
+---
+
+Before going to bed V. took the scarf from his pocket and hung it over the back of a kitchen chair to dry.
+
+Outside it was twenty degrees below zero. According to a thermal camera that no one was watching, the glass of the dome was glowing. In Honduras it was still raining.

@@ -37,6 +37,7 @@ Chapter titles may change. The initial letters may not.
 - *"Heat is a moralist."* *"It is a state of verbs."* *"I was invited as a thermometer."* *"It tasted like a banana."*
 - The father's line: *"I know the look of a plant that is being counted instead of picked."* He says it in Version B only.
 - Ilmari, Aila, the blue notebook.
+- The pencil mark *ammunition* on the window frame in Neulamäki. It already appears in Version A, seen by K. and not understood. In *Neulamäki* it must acquire a meaning of its own, not merely remind the reader that it was there before. How it opens is yours to decide.
 
 ## Change from your novel
 
