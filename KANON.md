@@ -147,3 +147,27 @@ Laskusääntö: Lupauskuun päivä *n* on viikonpäivä numero ((n − 1) mod 10
 | DeepSeek, ND-luonnos | haarautuminen 27.10.; V. ja K. kulkulokissa 27.10.; ilmalukko 4 takaporttina; 21 × 6 + 2 ≠ 142 |
 | ChatGPT, *The Archive* | V. puhuu ja jättää eriävän mielipiteen |
 | Mistral, WB | sääntöjen liitteeseen kirjattu syömisoikeus; neljän viikon kuukausi; Raportointikuu maaliskuussa; hedelmiä 11 / 14 / 142; banaani juurtuu lehdestä |
+
+## 7. Tarkoitukselliset erot versioiden A ja B välillä
+
+Näitä ei harmonisoida yhdistämisvaiheessa. Ne ovat [T] eivätkä virheitä.
+
+| Asia | Versio A, *The Report* | Versio B, *The Account* |
+|---|---|---|
+| Ilmalukko 7.11. klo 18.15 | vikaantuu kiinni | vikaantuu auki |
+| Kulunvalvonnan loki | `DATE INVALID. ACCESS PENDING.` | `DATE INVALID. ACCESS GRANTED (DEFAULT)` |
+| Terttu | 142 mätää | 141 mätää, 1 syöty |
+| Laiturin kirja 7.11. ilta | *Counted. Belongs to the eater.* | *Evening count. One eaten. One peel. Not export.* |
+| BANA:n taserivi | *Bunch 1/2033, lost, 0* | *141, lost; 1, eaten; 0 BY*; uusi kategoria EATEN |
+| Kertoja | K. | Akseli |
+| Strömberg | tutkija, ratkaisee tapauksen | tilintarkastaja, ei valitse ("the rest is weather") |
+| Hargreaves, tri Haas, Dupré | mukana | eivät esiinny |
+| Paredesin repliikki | espanjaksi, käännös vireillä, *Nadie vino* | *"Where I come from, we eat."* |
+| Käännösasiakirja | saapuu laiturille 16.11. | ei ole |
+| Isä | vaiti, Neulamäen eteisessä | puhuu kerran ja sanoo sanan *ammunition* |
+| Porkkana | yhdistys syö sen (11.–12.11.) | jää jäälinssiin pystyyn |
+| K. ja V. | K. kertoja; V. alleviivaa *weeping* | K. sulkee toimeksiannon; V. lukee Akselin muistikirjan ja nyökkää |
+| Narvikin kahdeksas tiedustelu | arkistoitu: *Silk Road, pending* | vastattu: *There is no shipment.* |
+| Loppulausunto | *The bunch rotted.* | – (yhteinen loppu: *eaten, or it rotted*) |
+
+Yhteisiä, ja siksi täsmättävä: ajanlasku ja päivämäärät, Neulamäen ja kuvun maantiede (kupu on Neulamäestä pohjoiseen), lyijykynämerkintä korkealla ikkunanpuitteessa, yhdistyksen puheenjohtajan sukupuoli, Akselin paluu helmikuussa 2034, banaanien määrä 142 ja liitteiden A–L sisältö.
