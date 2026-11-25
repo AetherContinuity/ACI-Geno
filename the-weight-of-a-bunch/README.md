@@ -35,3 +35,5 @@ chapters carry no number); `build_epub.py` renumbers chapters in reading order
 and emits part-divider pages. Reading order, with part structure, is declared in
 `PARTS` inside the build script. New chapters should be added there, not
 renumbered by hand.
+
+Katso myös: [Bannanivaltion kirjallisen kerhon toimintaohje](../kerhon-toimintaohje.md).
