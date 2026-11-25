@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Ask kimi-k3.1-pro for a review
         env:
-          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          MOONSHOT_API_KEY: ${{ secrets.GENOT_API_KEY }}
         run: python3 tools/kimi_review.py
       - name: Commit result
         run: |
