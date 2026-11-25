@@ -16,12 +16,12 @@
 | Item | Description | Status |
 |---|---|---|
 | Exhibits A–L | Documents preceding 7.11.2034, 18:15 | Verified |
-| Report 2/IX | *The Report* | Original |
+| Report 1/IX | *The Report* | Original |
 | | | |
-| Account 3/IX | *The Account* | Original |
+| Account 1/IX | *The Account* | Original |
 | – | Documents not dependent on the above | Verified |
 
-*Archivist's note:* Two documents in this file are each marked Original. Under section 4 of the archiving instructions, only one document concerning a given event may be the original. The archivist has asked which one. The Director-General has replied that both concern the same day, and that the day has no name, so the instruction does not apply.
+*Archivist's note:* Two documents in this file carry the same number, and each is marked Original. Under section 4 of the archiving instructions, only one document concerning a given event may be the original. The archivist has asked which one. The Director-General has replied that both concern the same day, and that the day has no name, so the instruction does not apply.
 
 A line has been left blank between the two. Someone wrote in pencil on it: *possible third event.* The note was erased, because there is no document for a third event.
 
