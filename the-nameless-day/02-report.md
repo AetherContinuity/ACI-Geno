@@ -321,3 +321,112 @@ I recorded the events of the night in order:
 None of them concerned the insurance.
 
 It was 1.40 when I went to bed. By the state calendar, the fifth day of the Month of Promise had begun. It was Consultation Day.
+
+---
+
+## In Three Calendars
+
+*Recorder's note, the fifth and sixth days of the Month of Promise (12–13.11.2034)*
+
+Strömberg spread three sheets of paper across the kitchen table and taped them together. With a ruler he drew a timeline from the flowering to the death of the bunch. At the flowering he wrote BANA's date, 17.6.2033, and at the end 8.11.2034. The forecast ripening date, 2.1.2035, he marked in red off the end of the timeline, on the edge of the table, where there was no room for it.
+
+"The bunch never got this far," he said, and tapped the red mark.
+
+Then he asked for the minutes of every body that had dealt with the bunch between the twenty-seventh of October and the seventh of November. He received eleven binders that afternoon. Binder 11 also contained a letter he had not asked for: the seventh polite inquiry from the harbour master at Narvik, asking when the first banana shipment of the Bananna State's Silk Road might be expected. It had been filed under *Silk Road, pending*. Strömberg set it aside.
+
+I recorded: *Binder 11 contains an irrelevant document.*
+
+---
+
+Strömberg went through the meetings day by day and marked each on the timeline. In the state calendar every day has a name, and on every named day a meeting had been held. On Consultation Day a statement had been requested. On Steering Group Day the steering group had met. On Interim Report Day an interim report had been prepared. On Impact Day BANA had assessed impact. On Follow-on Funding Day follow-on funding had been sought.
+
+On the additional days there had been festivities, and every festivity had minutes.
+
+"Everyone has an alibi," Strömberg said. "Every body, for every day. Everyone was in a meeting."
+
+He leaned back.
+
+"So the culprit needed no hands. The weapon is the contract."
+
+He showed me page eight of the insurance contract. The name of the beneficiary was underlined. Now I saw it: *Ministry of Finance.*
+
+"If the bunch dies before the second of January, the Ministry receives the national debt. No one has to do anything. It is enough that no one does anything. The contract does the rest."
+
+I recorded: *The calendars support Strömberg's theory.*
+
+V. looked at the timeline for a long time. His gaze stopped at the point where the additional days ended and Year IX began. On the timeline the gap was one day wide. Strömberg had left it empty.
+
+---
+
+On the morning of the sixth day of the Month of Promise, Steering Group Day, Strömberg wanted to hear the observer from the Food and Agriculture Organization. He had found the name in binder 4, on the last line of a distribution list: *Paredes, E. (FAO), for information.*
+
+Don Esteban Paredes lived in the service building of Greenhouse 3, because it was warm there. He had been in Kuopio since 2031. He came from Ecuador, from the province of El Oro, and he had grown bananas for forty years. In his room there was a bed, a kettle and a wall calendar that was neither of the Bananna State's calendars. It contained only numbers: days since flowering.
+
+He spoke English slowly and precisely.
+
+"I am here since 2031," he said. "Nobody asks me. You are the first."
+
+"What is your task?" Strömberg asked.
+
+"To observe. I observe. I write reports. Nobody reads."
+
+"Did you see the bunch?"
+
+"Every day."
+
+"When did it ripen?"
+
+Paredes looked at his wall calendar. When he answered, he did not speak English. He spoke the way a man speaks when he is counting in his head in his own language.
+
+"La flor salió el veintidós de abril. El racimo estaba listo el veintisiete. Doce días para comerlo. Nadie vino."
+
+Strömberg waited for a translation. Paredes did not translate, because he considered the matter clear.
+
+I recorded: *Witness answered in Spanish. Translation missing. BANA has no Spanish translator. Translation commissioned from the Ministry of the Future.*
+
+"Do you understand?" Strömberg asked me.
+
+"No."
+
+He turned to V. V. was looking at Paredes. He said nothing.
+
+---
+
+Before we left, Strömberg asked one more question, perhaps out of courtesy.
+
+"What do you think of the Bananna State?"
+
+Paredes smiled for the first time.
+
+"O. Henry wrote 'banana republic' about Honduras. Nineteen-oh-four. A real banana republic has bananas. It has too many bananas, and the wrong people eat them."
+
+He looked out of the window at Greenhouse 3.
+
+"Here, nobody eats. This is something else. I don't have the word."
+
+I recorded: *Witness does not have the word.*
+
+---
+
+In the afternoon Strömberg added a fourth sheet to the timeline. On it he set out three calendars side by side, as I had done on the page of the Dock Book:
+
+| | State calendar | Association calendar | Paredes's calendar |
+|---|---|---|---|
+| Flowering | 17.6. VII (BANA conversion 17.6.2033) | the day of the flower | *el veintidós de abril* |
+| Ripening | forecast 2.1.2035 | "when the snowman began to weep" | *el veintisiete* |
+| Edible | – | – | *doce días* |
+| Death | Month of Promise 1, IX | 8.11. 0 edible. | *nadie vino* |
+
+*Recorder's note:* Of the three calendars only one is official. The other two are recorded for completeness.
+
+Strömberg looked at the table and nodded.
+
+"Three calendars, one truth," he said. "The bunch died before it ripened. The contract pays. The Ministry benefits."
+
+That evening he called Haparanda and asked for authority to hear the Ministry of Finance formally. Authority was granted.
+
+After the call he took the pledgee's statement from his breast pocket, looked at the envelope and put it back unopened.
+
+V. went to bed early. Before he did, he stopped at the table and touched the empty place on the timeline with his forefinger, the day between Year VIII and Year IX that had no name.
+
+I recorded: *V. examined the timeline.*
