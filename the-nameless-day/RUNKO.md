@@ -122,14 +122,37 @@ Asiakirjoja jälleen ilman kertojaa. Tämä tapahtuu kummassakin versiossa:
 
 ---
 
-## 5. Avoimet kysymykset
+## 5. Ratkaisut ja avoimet kysymykset
 
-1. **Kumpi versio ensin?** Ehdotan A:ta ensin, koska tragedia ennen vastausta antaa B:lle painoa. Käänteinen järjestys tekee A:sta seurauksen.
-2. **Kuka kertoo yhteisen alun?** Ehdotan, ettei kukaan, vaan pelkät asiakirjat. Tällöin kumpikaan kertoja ei omista alkua.
-3. **Nimi.** *The Nameless Day* tai *Report and Account*. Edellinen kertoo paikan, jälkimmäinen rakenteen.
-4. **Mistralin isä-hahmo** on vahvempi kuin mikään vastaava trilogiassa. Saako hän esiintyä myös versiossa A, vai jääkö se hiljaisuus B:n omaksi?
+### Ratkaistu 25.11.2026 (DeepSeekin kommentit huomioitu)
 
----
+1. **Järjestys: A ensin.** Tragedia tulee ennen vastausta. Järjestys A → B jäljittelee järjestelmän omaa kronologiaa: ensin kielletään, sitten joudutaan myöntämään.
+2. **Yhteinen alku: pelkät asiakirjat ja yksi proosakappale.** Kappale on lukijan katse eikä kenenkään hahmon. Ilmalukon näytössä on tyhjä päivämääräkenttä, ja käsi pysähtyy ilmaan sitä kohti. Kappale ei selitä haarautumista.
+3. **Nimi: *The Nameless Day*.** Alaotsikko *A Report and an Account*.
+4. **Isä versiossa A: läsnä, mutta vaiti.** Hän katsoo kupua ikkunasta, näkee lumiukon sulavan ja kääntyy pois. Kukaan ei kysy häneltä mitään. Versiossa B hän puhuu, koska joku kuuntelee.
+
+### Avoinna
+
+5. **Kuka syö versiossa B?**
+   - *Mistral:* Akseli syö yhden, eivätkä apinat syö loppuja (142 → 141). Ihminen rikkoo järjestelmän.
+   - *DeepSeek:* apinat syövät koko tertun isän sanojen jälkeen. Reaalitalous palaa: *syöty on syöty*.
+   - *Yhdistelmä:* Akseli syö ensimmäisen, ja yhdistys seuraa. Yksi teko vapauttaa tavan, jonka järjestelmä oli opettanut pois.
+
+### DeepSeekin luonnoksesta otetaan käyttöön
+
+- Ilmalukon näytön tyhjä päivämääräkenttä haarautumishetken kuvana.
+- BANA:n muistio: *"Nimikysymys ei odota. Se lähestyy."* (Exhibit F:n yhteyteen.)
+- Kaksoismerkitys yhteiseen loppuun: *"Nobody came."* Versiossa A se tarkoittaa, ettei kukaan tullut syömään, versiossa B, ettei kukaan tullut estämään.
+
+### DeepSeekin luonnoksesta ei oteta käyttöön (ristiriidassa kanonin kanssa)
+
+- Haarautuminen 27.10. eikä 7.11. Kypsyminen ja nimeämätön päivä menevät sekaisin.
+- V. ja K. kulkulokissa 27.10. Kanonissa he saapuvat 9.11.
+- Versio A ilman Strömbergiä. K. Kapusiini ratkaisee itse, jolloin dekkari katoaa.
+- Akseli matkustaa paikalle vasta seuraavana päivänä. Kanonissa hän on paikallinen pakkasmies.
+- Ilmalukko 4 huoltoajoneuvoille. Se on uusi takaportti, ja runko poisti takaportit.
+- 21 apinaa × 6 + 2 = 128, ei 142.
+- Isän pitkä selittävä puheenvuoro B:ssä. Isän paras lause toimii juuri siksi, ettei hän selitä.
 
 ## 6. Työnkulku
 
