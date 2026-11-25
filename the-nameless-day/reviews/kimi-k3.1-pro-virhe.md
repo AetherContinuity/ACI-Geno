@@ -1,10 +1,9 @@
 # Virhe: kimi-k3.1-pro
 
-*2026-11-25 17:03 UTC*
+*2026-11-25 17:31 UTC*
 
-HTTP 520
+HTTP 401
 
 ```
-error code: 520
-
+{"error":{"message":"Invalid Authentication","type":"invalid_authentication_error"}}
 ```
