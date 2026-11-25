@@ -118,3 +118,103 @@ That night Strömberg wrote the first line in his notebook that was not a quotat
 *Sabotage. Motive: ?*
 
 He was wrong. I know that now. I did not know it then, and I recorded it as he said it.
+
+---
+
+## Association Hearing
+
+*Hearing record 1/IX*
+
+**Time:** Month of Promise 4, Stakeholder Day (11.11.2034)
+**Place:** Loading Dock 4
+**Present:** Customs Inspector A. Strömberg (examining); T. Kapusiini, chair of the Puijo Capuchin Association (no relation); the Association's eldest member; V.; the undersigned (record)
+
+Strömberg wanted to hold the hearing at the lodge. The Association declined. The hearing was held on the dock, because the witnesses would not leave sight of the scene.
+
+---
+
+**Strömberg:** Where were you between the twenty-seventh of October and the seventh of November?
+
+**Chair:** Here.
+
+**Strömberg:** The whole time?
+
+**Chair:** Mornings here. Nights in the pipe.
+
+**Strömberg:** What were you doing here?
+
+**Chair:** Counting.
+
+**Strömberg:** Counting what?
+
+**Chair:** In the morning, how many bananas there are in the bunch. In the evening, how many are left.
+
+Strömberg asked for the accounts. The chair tore a page from the Dock Book and handed it over. In accordance with BANA's document instructions, I added a column for the state calendar:
+
+| Date | State calendar (added by K.) | Bananas | Remarks |
+|---|---|--:|---|
+| 27.10.2034 | Month of Reporting 25 | 142 | Yellow. The snowman is weeping. |
+| 28.10.–5.11. | Month of Reporting 26 – Additional Day 4 | 142 | (as in Exhibit H) |
+| 6.11. | Additional Day 5 | 142 | Soft. Of the snowman, the glasses and the carrot remain. |
+| 7.11. | ? | 142 | Counted. Belongs to the eater. |
+| 8.11. | Month of Promise 1, IX | 142 | Bunch. 0 edible. |
+
+*Recorder's note:* The conversion table under Decree 1/I contains five named additional days. The entry for 7.11. has no equivalent. The entry is probably an error by the Association or a later addition.
+
+---
+
+**Strömberg:** There are 142 bananas every day.
+
+**Chair:** No one ate.
+
+**Strömberg:** Did the bunch ripen?
+
+**Chair:** Yes.
+
+**Strömberg:** When?
+
+**Chair:** When the snowman began to weep.
+
+**Strömberg:** I asked for a date.
+
+**Chair:** It is in the book.
+
+Strömberg looked at the page and then at his notebook.
+
+**Strömberg:** According to BANA's forecast, the bunch would have ripened in January.
+
+**Chair:** BANA does not look at the snowman.
+
+*Recorder's note:* The Association's language is at times descriptive. The entries in the Remarks column are observations of the bunch's appearance and of the weather. They are not relevant to the investigation.
+
+---
+
+**Strömberg:** If the bunch was ripe and belonged to the eater, why did you not eat it?
+
+**Eldest member:** We had not finished counting.
+
+**Strömberg:** When did you finish?
+
+**Eldest member:** In the evening. On the day that has no name.
+
+*Recorder's note:* See above. The day in question does not exist.
+
+**Strömberg:** Who benefits from the death of the bunch?
+
+**Chair:** Everyone who has a paper on it.
+
+Strömberg wrote in his notebook: *Paper = insurance?* He underlined *insurance* twice.
+
+**Strömberg:** Thank you. That will do for now.
+
+**Chair:** We are here.
+
+---
+
+*Recorder's summary:* On the evidence of the hearing, the Association had neither motive nor opportunity. Its accounts show that the bunch was not touched. One entry is incorrectly dated. The entries in the Remarks column are irrelevant. The investigation will proceed in the direction of the insurer.
+
+Signed, K.
+
+---
+
+In the evening V. read the record. He underlined one word in it. I did not record which.
