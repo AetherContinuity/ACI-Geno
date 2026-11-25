@@ -11,7 +11,7 @@ Recorded by: K.
 
 ## Entry
 
-The last entry in the Dock Book is dated the way the Association dates everything, by the day it actually was:
+The entry that follows the empty evening column in the Dock Book is dated the way the Association dates everything, by the day it actually was:
 
 | Date | Trucks | Bananas | Remarks |
 |---|--:|--:|---|
@@ -21,7 +21,7 @@ By the state calendar it was the first day of the Month of Promise, Year IX, an 
 
 The bunch was found in Greenhouse 3, Row 14, at 6.14 a.m., by the same member of the Association who had seen it flower. He did not touch it. He walked back to the loading dock and wrote it down.
 
-The bunch hung from its stalk, brown and soft. The skins were whole. There were no bite marks. No one had eaten any of it. The bunch had died of natural causes, which in the Bananna State was unheard of.
+The bunch hung from its stalk, brown and soft. The skins were whole. There were no bite marks. No one had eaten any of it. BANA classified the cause of loss as *natural*. In the Bananna State this was unheard of.
 
 The Association reported the death to BANA, because BANA's number was the only one printed in the Association's rules. BANA informed the Ministry of Finance. The Ministry informed the insurer. The insurer informed the pledgee. The pledgee was the Kingdom of Sweden, and the Kingdom of Sweden sent a customs inspector.
 
@@ -53,7 +53,7 @@ On the evening of the second day Strömberg laid two papers side by side on the 
 
 "Two observations."
 
-He wrote it in his notebook: *Two observations.* Then he took a third paper, the ripening forecast, which gave the second of January 2035.
+He wrote it in his notebook: *Two observations.* He looked at the two dates for a while. Then he put the Dock Book page aside, because it was not an official document, and took a third paper, the ripening forecast, which gave the second of January 2035.
 
 "The bunch died fifty-five days before it would have been ripe," he said. "A banana does not rot before it ripens."
 
