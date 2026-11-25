@@ -107,7 +107,7 @@ Laskusääntö: Lupauskuun päivä *n* on viikonpäivä numero ((n − 1) mod 10
 | **Tri Haas** | IAEA, Wien. Mittauspöytäkirja: satelliitin lämpöinfrapunakanava, 100 m. | vähän | [V] |
 | **Narvikin satamakapteeni** | Kohteliaat tiedustelut: 7. (III) ja 8. (III, epilogi) | kirjeitse | [V] |
 | **Lumiukko** | Pohjoisportilla lasia vasten, aurinkolasit ja kaulaliina. Alkaa sulaa 27.10., poissa 7.11. Lätäkkö 140 cm lasiin päin, 11 cm poispäin. | ei | [V] |
-| **Akseli Hämäläinen** | Pakkasmies, 36 vuotta, palannut Oulusta helmikuussa 2034 | kyllä | [E] ND, WB |
+| **Akseli Hämäläinen** | Pakkasmies, 36 vuotta, palannut Oulusta helmikuussa 2034. Versiossa B syö yhden banaanin. | kyllä | [E] ND, WB |
 | **Akselin isä** | Neulamäki, ikkunanpuitteen merkintä "ammunition". Versiossa A vaiti, versiossa B: "I know the look of a plant that is being counted instead of picked." | B:ssä | [E] ND |
 | **K. Luonnos** | Arkistovirkailija, syntynyt väärin jäsennetystä allekirjoituksesta | – | [E] ChatGPT |
 
@@ -134,12 +134,11 @@ Laskusääntö: Lupauskuun päivä *n* on viikonpäivä numero ((n − 1) mod 10
 
 ---
 
-## 5. Avoimet päätökset
+## 5. Päätökset
 
-- **[A]** Tuleeko *The Archive* (ChatGPT:n luvut 6 ja 8, luku 7 tiivistettynä) omaksi osakseen ND:n versioiden B ja yhteisen lopun väliin?
-- **[A]** Kuka syö versiossa B: Akseli yksin, yhdistys yksin vai Akseli ensin ja yhdistys perässä?
-
----
+- **[V] 25.11.2026:** *The Archive* ei tule omaksi osakseen. Arkistoaineisto kuuluu Exhibits-osan kehykseen (BANA:n arkistokansio *The Nameless Day*), ja sen vaikutukset näkyvät itse kertomuksessa. Päätös voidaan arvioida uudelleen, jos aineisto osoittaa tarvitsevansa oman osan.
+- **[V] 25.11.2026:** Versiossa B Akseli syö yhden banaanin yksin, 142 → 141. Isä ei syö, eikä yhdistys syö jäljelle jääneitä.
+- **[V] 25.11.2026:** Kerho ei toistaiseksi tuota itseään käsittelevää kirjallisuutta. Pöytäkirja 1/2026 on arkistoitu polkuun `kerho/poytakirja-1-2026.md`, eikä se ole kanonia.
 
 ## 6. Ehdotukset, jotka on todettu ristiriitaisiksi kanonin kanssa
 
