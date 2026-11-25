@@ -430,3 +430,165 @@ After the call he took the pledgee's statement from his breast pocket, looked at
 V. went to bed early. Before he did, he stopped at the table and touched the empty place on the timeline with his forefinger, the day between Year VIII and Year IX that had no name.
 
 I recorded: *V. examined the timeline.*
+
+---
+
+## The Silent Witness
+
+*Recorder's note, the seventh day of the Month of Promise, Interim Report Day (14.11.2034)*
+
+Mr Hargreaves arrived from London in the morning, flew into Kuopio and took a taxi to the Puijo lodge. He wore a grey cardigan and rubber boots and carried a leather notebook older than the Bananna State. He represented the reinsurer that had assumed a risk of 2.4 billion Banana Units. He had come to find out why the risk had materialised.
+
+He shook Strömberg's hand for a long time, the way two investigators shake hands when they know they are investigating the same thing for different reasons.
+
+"I understand you have a theory," Hargreaves said.
+
+"I have a motive," Strömberg said.
+
+"Splendid. I have a weather condition."
+
+I recorded: *There are now two investigators.*
+
+---
+
+Before lunch a third visitor came to the lodge and did not stay. Dr Haas of the International Atomic Energy Agency in Vienna had arrived under the Bananna State's observer partnership to inspect the small modular reactor. She had spent two days looking for it and had established that it did not exist.
+
+She left a copy of her measurement record at the lodge, because the distribution list required it to be delivered to "all inspectors present". The record was one page with one graph: the surface temperature of the dome's glass from satellite thermal imagery over the past year. The line was flat until the twenty-seventh of October 2034, when it rose steeply and stayed up.
+
+The conclusion read: *There is no nuclear plant on the site. The most significant heat source is the de-icing of the glass. The observation does not fall within the Agency's remit.*
+
+At the bottom of the page, in small print, was a footnote: *Method: satellite thermal infrared channel, pixel size 100 m. Glass is opaque in the thermal infrared; the measurement therefore describes the temperature of the glass surface.*
+
+Dr Haas left on the afternoon train. She did not ask about the bunch.
+
+I recorded: *IAEA record filed. Does not concern nuclear power.*
+
+Hargreaves asked for a copy and read it twice.
+
+---
+
+After lunch Strömberg went looking for the frost man.
+
+He had found him in binder 6: photocopies of a field notebook with a blue cover, kept by A. Hämäläinen, junior frost-maintenance officer, every page stamped *RECEIVED. FILED.* Strömberg had not read the figures. He had read one remark, from the thirteenth of October: *Snowman at point 17, against the glass. Sunglasses. Not mine.* He wanted to ask whose they were.
+
+The Frost Maintenance Office gave him an address in Neulamäki, a wooden house on a slope on the south side of the city, with a large window facing north. From the window you could see Puijo, and on top of Puijo the faint amber glow that the city no longer noticed.
+
+An old man opened the door. He was in his seventies and stood carefully, as people stand whose knees have been finished for some time.
+
+"I am looking for A. Hämäläinen," Strömberg said. "Of the Frost Maintenance Office."
+
+The old man did not answer. He let us into the hall, because it was cold.
+
+"Is he at home?"
+
+The old man said nothing. He went to the window and looked out toward Puijo. On the window frame, at the height of a child, someone had once written a word in pencil: *ammunition*.
+
+"I would like to ask him about his measurements," Strömberg said. "Point 17. The north gate."
+
+The old man stood at the window for a while longer. Then he turned away from it and went into the kitchen, and we heard the tap run.
+
+Strömberg waited. He left his card on the hall table, under the edge of a plant pot, so that it would not blow away when the door opened.
+
+I recorded: *Visit to the frost-maintenance officer's address. Officer not at home. Father present. No answer received. Card left.*
+
+---
+
+In the afternoon both investigators wished to hear the snowman.
+
+Nothing remained of the snowman but the sunglasses, the scarf and the frozen puddle. Both men, however, considered a hearing necessary, and both their procedures required one. The hearing was held at the north gate at 14.00. The undersigned kept the record.
+
+*Hearing record 2/IX*
+
+**Strömberg:** Were you at the north gate between the twenty-seventh of October and the seventh of November?
+
+*The witness did not answer.*
+
+**Hargreaves:** Did you notice any unusual warmth?
+
+*The witness did not answer.*
+
+**Strömberg:** Did you see anyone enter Greenhouse 3?
+
+*The witness did not answer.*
+
+**Hargreaves:** Did the glass feel warm to you?
+
+*The witness did not answer.*
+
+Hargreaves closed his notebook.
+
+"The witness has answered," he said.
+
+Strömberg looked at him.
+
+"He said nothing."
+
+"He melted," Hargreaves said. "That is an answer."
+
+He knelt beside the puddle in his rubber boots and measured it with a pocket tape. The puddle was 140 centimetres long and reached the glass. Away from the glass it extended 11 centimetres.
+
+"Asymmetric," he said. "The heat came from the glass, not from the sun. There is no sun here in November. This is a thermal event."
+
+He took out the IAEA record and pointed to the rise in the graph.
+
+"The twenty-seventh of October. The glass warmed suddenly. The snowman began to melt the same day. The bunch over-ripened in the same heat. No one caused this, and no one could have foreseen it. *Force majeure.* Under clause 11 of the contract, no compensation is payable."
+
+Strömberg was silent. Then he said:
+
+"According to BANA's forecast, the bunch would ripen in January. If the heat had been normal, the bunch would have lived until January. Someone raised the heat."
+
+"Or," Hargreaves said politely, "the forecast was wrong."
+
+Neither of them said anything for a while.
+
+I recorded: *Two theories: sabotage and natural event.* I did not record Hargreaves's last sentence, because it was an aside.
+
+---
+
+When the hearing was over, the chair of the Association came to the north gate. He had followed the proceedings from the mouth of the condensate pipe.
+
+Hargreaves turned to him.
+
+"Evidence has gone missing from the scene. The snowman's nose."
+
+"We ate it," said the chair.
+
+"You ate the evidence."
+
+"It existed."
+
+Strömberg stepped forward.
+
+"You ate the carrot, but not the bunch."
+
+"Yes."
+
+"Why?"
+
+The chair looked at him as if the question were obvious.
+
+"There was no paper for the carrot."
+
+No one said anything.
+
+I recorded the answer verbatim, because it was an answer to a question put at a hearing. In the recorder's note I wrote: *The Association's answer confirms that the bunch was not touched.*
+
+---
+
+When the others went back to the lodge, V. stayed at the north gate. He lifted the scarf from the puddle. It had frozen to the ice, and he freed it carefully so that it would not tear. He folded it twice and put it in his coat pocket. He left the sunglasses where they were.
+
+I recorded: *Scarf removed from the scene (V.).* I added that the removal took place in the presence of the recorder and that no objection was made.
+
+---
+
+That evening the lodge held two investigators and two solutions. Strömberg sat at the kitchen table with his timeline, Hargreaves in the sitting room with the IAEA record. Both were right that the bunch was dead, and both were right that no one had touched it.
+
+Strömberg said that someone had wanted the bunch to die. Hargreaves said that no one could have prevented it.
+
+I recorded: *There are two solutions in the investigation. They are not the same solution.*
+
+Before I went to bed I wrote one more line, in my own notebook, not in the report. I do not know why I wrote it. It was a sentence that neither investigator had said aloud:
+
+~~*The heat was foreseeable. It was in the graph.*~~
+
+I crossed it out, because it was not the recorder's task.
