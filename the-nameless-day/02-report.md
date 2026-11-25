@@ -755,3 +755,241 @@ I recorded: *Strömberg examined a document.*
 Before going to bed V. took the scarf from his pocket and hung it over the back of a kitchen chair to dry.
 
 Outside it was twenty degrees below zero. According to a thermal camera that no one was watching, the glass of the dome was glowing. In Honduras it was still raining.
+
+---
+
+## Onset of Thaw
+
+*Recorder's note, the ninth day of the Month of Promise, Follow-on Funding Day (16.11.2034)*
+
+Dupré called from Brussels at 7.40. No one had asked him to call.
+
+Three days earlier Strömberg had asked him whether the archive of the Standing Committee held a statement by the Director-General of BANA concerning the bunch. Dupré had searched under *Bananna State* and replied that it did not. Now he called again.
+
+"I was putting the archive in order," he said, in English with a French accent. "I do it every Thursday. I found a folder that no one has ever asked for. It is filed under *Banana State*. One *n*. It contains four pages, numbered 41 to 44."
+
+"Where did it come from?" Strömberg asked.
+
+"From the Committee's meeting of the sixth of November. As an annex. The Committee found the situation unchanged and did not open the annex. The annex was filed according to its spelling. The spelling was wrong, so it was filed in the wrong place." He paused. "Or in the right one. It depends who spells correctly."
+
+He faxed the pages to the lodge. The fax machine was an old BANA device, and it worked.
+
+The pages were K. Kapusiini's final statement on the bunch, dated 3.10.2034. On the last page there was one recommendation:
+
+> *The bunch shall be eaten on the day it ripens, 2.1.2035. Clarification of ownership shall not delay eating. What is eaten is eaten.*
+
+Strömberg read it aloud and put the paper down.
+
+"The statement concerned a future day," he said. "So it was classified as an expectation. Expectations are referred to the Committee."
+
+He stood up.
+
+"Gather everyone at the dock. Twelve o'clock."
+
+---
+
+Everyone who had been invited came to Loading Dock 4. Eleven invitations had been sent, and eleven people came, which was unheard of in the history of the Bananna State.
+
+Present were the Director General of the Ministry of Finance; the Development Director of the Ministry of the Future; the chair of the steering group for the bunch and of the steering group for the harvesting project (the same person); the secretary of the monitoring group; the insurer's local representative; Don Esteban Paredes; the chair and the eldest member of the Association; V.; and the undersigned. The last to arrive was the Director-General of BANA, K. Kapusiini. He was a capuchin, smaller than I had imagined. He sat down on the edge of the dock beside the Association.
+
+Dupré was on the speakerphone.
+
+At the far end of the dock stood a man in a frost-maintenance jacket with a thermal probe in his hand. He had not been invited. He had come because of a card left under a plant pot. No one asked him to leave.
+
+Strömberg placed the snowman's sunglasses in the middle of the dock. No one asked why.
+
+---
+
+"Two weeks ago," Strömberg began, "I was told that the bunch had died fifty-five days before it ripened. I believed it, because it had been recorded. I looked for the person who had killed the bunch. I found a motive, a contract and a beneficiary."
+
+He looked at the Director General of the Ministry of Finance.
+
+"I was wrong."
+
+The Director General said nothing. His expression was that of a man who is not sure whether he has been acquitted or accused.
+
+"The bunch did not die before it ripened. It died after. No one killed it. It was waited to death."
+
+---
+
+He took BANA's original flowering notice from binder 2 and read it.
+
+"*Flowering observed 17.6. VII.* In the archive index the date has been converted to 17.6.2033. But 17.6. VII does not mean the seventeenth of June. It is the seventeenth day of the Month of Establishment, Year VII, and by the Gregorian calendar that is the twenty-second of April 2033. The same day the Association entered in the Dock Book."
+
+He put the paper down beside the sunglasses.
+
+"There were not two flowerings, and not two observations. There was one flowering in two calendars. BANA's archive index read the state date as Gregorian. From then on every forecast was fifty-six days late."
+
+"It is a technical error," said the Director-General of BANA quietly.
+
+"It is," Strömberg said. "But it did not kill the bunch. Look at what would have happened without it."
+
+He counted in his notebook.
+
+"BANA's model gives 564 days from flowering to ripeness. Counted from the wrong date, that is the second of January 2035. Counted from the right one, it is the seventh of November 2034."
+
+He looked at the Director-General.
+
+"Even if the date had been read correctly, your statement would have recommended eating on the seventh of November. That day has no name. It is not in the state calendar. No meeting could have been convened for it to decide on eating."
+
+K. Kapusiini looked at the boards of the dock.
+
+"I know," he said. "Now."
+
+---
+
+"The bunch ripened on the twenty-seventh of October," Strömberg went on. "There were witnesses to that. No one listened to them."
+
+He took a sheet from his folder. It was the hearing record of the eleventh. One word on it was underlined in pencil.
+
+"I did not underline this," he said. "Someone read this before me."
+
+The word was *weeping*.
+
+"The snowman began to melt that day. When Greenhouse 3 reached ripening temperature, the glass warmed, and the snowman was standing against the glass. The puddle reached the glass and not away from it. The Association's entry for the twenty-seventh says: *The snowman is weeping.* That is not a figure of speech. It is a date."
+
+V. looked at the dome. He did not say anything.
+
+Strömberg took out the IAEA record.
+
+"The satellite in Vienna measured the same glass on the same day. The record was filed because it did not concern nuclear power."
+
+He turned toward the end of the dock.
+
+"And the frost-maintenance officer measured it at point 17. Plus six point four degrees on the outside of the glass, at eight below. He reported it. He was told that the glass was heated as planned. His notebook was received and filed."
+
+The man in the frost-maintenance jacket did not move.
+
+Strömberg turned to Paredes.
+
+"And you said it. Twice. In Spanish."
+
+At that moment a Bananna State Post van stopped slowly at the end of the dock. The driver got out and handed an envelope to the nearest person, who was me.
+
+It was from the Ministry of the Future. It contained the translation commissioned on the sixth day of the Month of Promise. I gave it to Strömberg, and he read it aloud:
+
+> *The flower opened on the twenty-second of April. The bunch was ready on the twenty-seventh. Twelve days to eat it. Nobody came.*
+>
+> *The seventh. The last day. It could still have been eaten.*
+
+Paredes nodded.
+
+"Yes," he said. "That is what I said."
+
+---
+
+"Twelve days," Strömberg said. "The twenty-seventh of October to the seventh of November. And twelve decisions."
+
+He read his table aloud, line by line, and with each line he looked at the person it concerned.
+
+"Consultation Day. The pledgee sent its statement by post."
+
+He took the Swedish statement from his breast pocket.
+
+"Haparanda customs. My own office. The statement is dated the twenty-seventh of October, the day the bunch ripened. It says: *The pledgee does not object to harvest or consumption.* It was sent with a 25 B commemorative stamp and addressed to the bunch. It arrived sixteen days later, when the addressee was dead. I carried it in my pocket for a week and called it routine."
+
+He laid the statement beside the sunglasses.
+
+"Steering Group Day. Harvest once ownership is clear." He looked at the chair. "Interim Report Day. Ripening proceeding according to plan." The secretary. "Impact Day. A new classification." The Director-General. "Follow-on Funding Day. A pledge." The Director General of the Ministry.
+
+He stopped at the sixth line.
+
+"Establishment Day. *Harvest to await the independent assessment of the harvesting protocol. Commissioned from the Ministry of the Future.*"
+
+He looked at me.
+
+"Whose assessment?"
+
+Everyone looked at me. Under the dock ran the exhaust duct, and its warmth reached the ankles.
+
+"Ours," I said.
+
+"You arrived on the ninth of November."
+
+"Yes."
+
+"You recorded this line without comment."
+
+"It was not the recorder's task."
+
+Strömberg said nothing. He did not need to.
+
+I will write here what I did not say then. Throughout the investigation I had thought things through to the end. But I had thought them through by the rules of the machine, because I was standing inside it. I had not stood there before.
+
+---
+
+Strömberg read the remaining lines: the strategy day, the application, the founding of the steering group, the waiting for the funding decision, the Committee's finding. Each body had done something, and each had done it on time, according to the minutes.
+
+"And the thirteenth day," he said. "The one with no name."
+
+He turned to the Association.
+
+"You were the only ones who did anything on a day that does not exist. You counted. You finished counting in the evening, and the answer was right. The bunch belonged to the eater. By morning there was nothing left to eat."
+
+The chair did not look away.
+
+"We were waiting for paper," he said. "Like everyone."
+
+"In Christie's train," Strömberg said, to me and to no one else, "twelve passengers each struck once. Here each of them waited one day."
+
+---
+
+The Director General of the Ministry of Finance cleared his throat.
+
+"The Ministry's position is that since everyone took part, no one is solely responsible."
+
+"The Ministry's position is correct," Strömberg said. "That is the crime."
+
+---
+
+Last of all, Strömberg took out the inspection report, the one I had been writing, which he had asked me for that morning. He opened it at the first page.
+
+"*The table of contents has been approved as a formality*," he read. "The table of contents is part of BANA's report template. Who prepared the template?"
+
+"I did," said K. Kapusiini. "On the same day as the statement."
+
+Strömberg read the chapter titles aloud. He read them slowly, and at each one he raised a finger.
+
+"Entry. Association Hearing. The Night Dock. In Three Calendars. The Silent Witness. Nameless Day. Onset of Thaw. Winter, Afterwards."
+
+He counted his fingers.
+
+"E. A. T. I. T. N. O. W."
+
+No one said anything.
+
+"You wrote it twice," Strömberg said.
+
+"Once in the text," said K. Kapusiini. "Once in the headings. In the Bananna State the headings are the only part everyone sees." He looked at the boards. "Neither was read."
+
+For two weeks I had been writing chapters under those headings. I wrote them according to the document instructions. I did not read the headings. They were a formality.
+
+---
+
+Strömberg closed the folder. He looked at the Association's eldest member, who had sat on the dock the whole time without speaking.
+
+"One last question," he said. "When did you understand that the bunch was dying?"
+
+The eldest looked at Greenhouse 3 and then at Strömberg.
+
+"When it could still be eaten."
+
+---
+
+There was one document Strömberg did not read aloud. It lay on top of his folder: the printout from binder 9, the access log of Airlock 3, open at its last page. One line had a time and no date.
+
+| Date | Time | Event |
+|---|---|---|
+| | 18:15:00 | DATE INVALID. ACCESS PENDING. |
+
+He looked at it for a long time. Then he looked at the man at the end of the dock.
+
+"Pending what?" he said.
+
+No one answered. The log could not record a day that had no name, so it could not record what had been pending, or for whom, or whether anyone had come.
+
+---
+
+I recorded the answer of the eldest. Then I recorded the date, by the state calendar, because procedure required it: the ninth day of the Month of Promise, Follow-on Funding Day.
+
+The sunglasses stayed on the dock. No one took them.
