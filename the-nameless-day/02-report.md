@@ -481,7 +481,7 @@ The old man did not answer. He let us into the hall, because it was cold.
 
 "Is he at home?"
 
-The old man said nothing. He went to the window and looked out toward Puijo. On the window frame, at the height of a child, someone had once written a word in pencil: *ammunition*.
+The old man said nothing. He went to the window and looked out toward Puijo. High on the window frame, above the old man's head, someone had once written a word in pencil: *ammunition*.
 
 "I would like to ask him about his measurements," Strömberg said. "Point 17. The north gate."
 
