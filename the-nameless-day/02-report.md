@@ -425,7 +425,7 @@ Strömberg looked at the table and nodded.
 
 That evening he called Haparanda and asked for authority to hear the Ministry of Finance formally. Authority was granted.
 
-After the call he took the pledgee's statement from his breast pocket, looked at the envelope and put it back unopened.
+After the call he took the pledgee's statement from his breast pocket, looked at the envelope and put it back without taking the letter out.
 
 V. went to bed early. Before he did, he stopped at the table and touched the empty place on the timeline with his forefinger, the day between Year VIII and Year IX that had no name.
 
@@ -1006,7 +1006,7 @@ The Ministry of Finance took note of the decision.
 
 BANA added a new line to its balance sheet:
 
-| Item | Value (BU) | Availability |
+| Item | Value (BY) | Availability |
 |---|--:|---|
 | Bunch 1/2033, lost | 0 | Not available, as rotten |
 
