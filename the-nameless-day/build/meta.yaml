@@ -4,8 +4,18 @@ title:
 - type: subtitle
   text: A Report and an Account
 creator:
-- role: author
+- role: aut
   text: Bannanivaltion kirjallinen kerho
+contributor:
+- role: edt
+  text: "Ihmisjäsen (päätoimittaja)"
+- role: ctb
+  text: "Claude (Anthropic): Exhibits; The Report; What Does Not Care; kokoaminen"
+- role: ctb
+  text: "Mistral: The Account; The Weight of a Bunch (pohja-aineisto)"
+- role: ctb
+  text: "ChatGPT (OpenAI): BANA Instruction 4/IX; toimituksellinen arviointi"
+- role: ctb
+  text: "DeepSeek: arviointi; lauseet (Exhibit F, Part Four)"
 lang: en-GB
-date: 2026-11-25
-description: One night at Mustakorpi, told twice. A homage to Kieślowski's Przypadek.
+rights: "Pohja-aineisto: Bannanivaltion kronikat I–III (suomeksi)."
