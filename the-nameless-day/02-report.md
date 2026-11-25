@@ -15,7 +15,7 @@ The entry that follows the empty evening column in the Dock Book is dated the wa
 
 | Date | Trucks | Bananas | Remarks |
 |---|--:|--:|---|
-| 8.11.2034 | 0 | 0 | Bunch. 0 edible. |
+| 8.11.2034 | 0 | 142 | Bunch. 0 edible. |
 
 By the state calendar it was the first day of the Month of Promise, Year IX, an Initiative Day. The Month of Promise carries the official meaning *everything is possible*. That morning, it no longer held.
 
@@ -154,7 +154,7 @@ Strömberg asked for the accounts. The chair tore a page from the Dock Book and 
 | Date | State calendar (added by K.) | Bananas | Remarks |
 |---|---|--:|---|
 | 27.10.2034 | Month of Reporting 25 | 142 | Yellow. The snowman is weeping. |
-| 28.10.–5.11. | Month of Reporting 26 – Additional Day 4 | 142 | (as in Exhibit H) |
+| 28.10.–5.11. | Month of Reporting 26–30; Additional Days 1–4 | 142 | (as in Exhibit H) |
 | 6.11. | Additional Day 5 | 142 | Soft. Of the snowman, the glasses and the carrot remain. |
 | 7.11. | ? | 142 | Counted. Belongs to the eater. |
 | 8.11. | Month of Promise 1, IX | 142 | Bunch. 0 edible. |
@@ -218,3 +218,106 @@ Signed, K.
 ---
 
 In the evening V. read the record. He underlined one word in it. I did not record which.
+
+---
+
+## The Night Dock
+
+*Recorder's note, the night between the fourth and fifth days of the Month of Promise (11–12.11.2034)*
+
+Strömberg was reading the insurance contract at the kitchen table. It was eleven o'clock. He had asked the insurer's local representative for the contract that evening, and the representative had delivered it promptly. No one had ever before asked him for a contract in order to read it.
+
+The contract ran to nine pages. On the eighth, Strömberg stopped and read aloud:
+
+> Should the work in progress fail to be completed before the forecast completion date (2.1.2035), the insurer shall compensate the assessed value of the work, 2,400,000,000 Banana Units.
+
+He put the paper down.
+
+"A living bunch is worth one bunch," he said. "A dead bunch is worth the national debt."
+
+He was not speaking to me. He underlined the name of the beneficiary. I did not see the name, because he turned the page.
+
+I recorded: *Strömberg has found a motive.*
+
+---
+
+At half past eleven I went outside. I could not sleep. V. followed, as he does when there is no reason to stay in.
+
+We walked to Loading Dock 4. It was empty. The capuchins were in the condensate pipe, because it was night and twelve degrees below zero. For the first time in a year and a half, no one was sitting on the dock.
+
+We sat on the edge. The boards were cold. The data centre's exhaust duct ran beneath the dock, and its warmth reached our ankles but not the wood.
+
+I have built a dock. I know that a dock is finished only when someone can step onto it. This dock had been finished since 2026. In a year and a half it had been stepped on by one driver, 412 trucks and the Association. Of bananas, one peel had passed over it.
+
+V. looked at the dome. I looked in the same direction.
+
+---
+
+At 0.20 a vehicle approached from the direction of Puijo. It was a Bananna State Post delivery van. It drove slowly, because in the Bananna State postal vans always drive slowly, and stopped at the end of the dock.
+
+The driver got out with a letter in his hand and read the address under the lamp.
+
+"Greenhouse three, row fourteen," he read.
+
+"The row is inside the dome," I said.
+
+"Can post go in there?"
+
+"No."
+
+He handed the letter to me, because I was nearest, and asked for a signature. I signed. On the envelope was a 25 B commemorative stamp: a laurel-crowned man holding a banana toward the sun. The postmark was 27.10.2034. The sender was Swedish Customs, on behalf of the pledgee.
+
+The letter had been in transit for sixteen days. From Haparanda to Kuopio is 420 kilometres. The letter had travelled 26 kilometres a day.
+
+The driver drove away slowly.
+
+I recorded: *Received: statement of the Swedish pledgee, addressed to the bunch. Addressee deceased.*
+
+---
+
+Before we went back, we walked to the north gate. The sunglasses and the scarf lay where they had lain, on top of the puddle, and the puddle had frozen hard. The carrot was gone.
+
+I looked around in the lamplight. In the snow there were small tracks leading toward the condensate pipe. They were four-footed, and beside them ran a thin line, as if a tail had been dragged.
+
+I recorded: *Evidence removed from the scene.*
+
+V. bent down and pressed his palm against the glass of the dome, where the puddle met it. He held it there for a while. Then he looked at me.
+
+I pressed my own palm against the glass beside his. The glass was warm, on the outside, at twelve degrees below zero.
+
+I recorded: *Glass warm. Dome heating operating as planned.*
+
+---
+
+At 1.05 we returned to the lodge. Strömberg was still at the kitchen table with the contract. I gave him the letter.
+
+He opened it and read it. It was one page. He read it twice, folded it back into the envelope and put the envelope in his breast pocket.
+
+"Routine," he said. "The pledgee's statement. It no longer matters."
+
+"What does it say?"
+
+"That the pledgee does not object."
+
+"To what?"
+
+He looked at me as if the question were unnecessary.
+
+"To the harvest."
+
+Then he went back to page eight.
+
+I recorded: *Content of statement: routine (Strömberg).* He did not ask me to enter the statement in the registry, and I did not.
+
+---
+
+I recorded the events of the night in order:
+
+1. Strömberg found a motive.
+2. The Swedish statement arrived sixteen days late.
+3. The carrot disappeared.
+4. The glass of the dome was warm.
+
+None of them concerned the insurance.
+
+It was 1.40 when I went to bed. By the state calendar, the fifth day of the Month of Promise had begun. It was Consultation Day.
