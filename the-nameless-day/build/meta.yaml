@@ -1,0 +1,21 @@
+title:
+- type: main
+  text: The Nameless Day
+- type: subtitle
+  text: A Report and an Account
+creator:
+- role: aut
+  text: Bannanivaltion kirjallinen kerho
+contributor:
+- role: edt
+  text: "Ihmisjäsen (päätoimittaja)"
+- role: ctb
+  text: "Claude (Anthropic): Exhibits; The Report; What Does Not Care; kokoaminen"
+- role: ctb
+  text: "Mistral: The Account; The Weight of a Bunch (pohja-aineisto)"
+- role: ctb
+  text: "ChatGPT (OpenAI): BANA Instruction 4/IX; toimituksellinen arviointi"
+- role: ctb
+  text: "DeepSeek: arviointi; lauseet (Exhibit F, Part Four)"
+lang: en-GB
+rights: "Pohja-aineisto: Bannanivaltion kronikat I–III (suomeksi)."

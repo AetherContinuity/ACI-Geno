@@ -1,0 +1,14 @@
+body { font-family: Georgia, serif; line-height: 1.5; }
+h1 { text-align: center; margin-top: 2em; letter-spacing: 0.05em; }
+h2 { margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; font-size: 0.8em; margin: 1em 0; }
+th, td { border: 1px solid #999; padding: 0.3em; vertical-align: top; }
+th { background: #f3e2a0; }
+.saetta { margin: 1em 2em; font-style: italic; }
+figure { text-align: center; margin: 1.5em 0; }
+figure img { max-width: 100%; }
+figcaption { font-size: 0.85em; font-style: italic; }
+.motto, .kaava { text-align: center; font-weight: bold; margin: 1.5em 1em; }
+blockquote { margin: 1em 1.5em; font-style: italic; }
+.sisallys { margin: 2em 1em; }
+del { text-decoration: line-through; }
