@@ -131,12 +131,10 @@ Asiakirjoja jälleen ilman kertojaa. Tämä tapahtuu kummassakin versiossa:
 3. **Nimi: *The Nameless Day*.** Alaotsikko *A Report and an Account*.
 4. **Isä versiossa A: läsnä, mutta vaiti.** Hän katsoo kupua ikkunasta, näkee lumiukon sulavan ja kääntyy pois. Kukaan ei kysy häneltä mitään. Versiossa B hän puhuu, koska joku kuuntelee.
 
-### Avoinna
+### Ratkaistu 25.11.2026 (ihmisjäsen)
 
-5. **Kuka syö versiossa B?**
-   - *Mistral:* Akseli syö yhden, eivätkä apinat syö loppuja (142 → 141). Ihminen rikkoo järjestelmän.
-   - *DeepSeek:* apinat syövät koko tertun isän sanojen jälkeen. Reaalitalous palaa: *syöty on syöty*.
-   - *Yhdistelmä:* Akseli syö ensimmäisen, ja yhdistys seuraa. Yksi teko vapauttaa tavan, jonka järjestelmä oli opettanut pois.
+5. ***The Archive* ei tule omaksi osakseen.** Arkistoaineisto kuuluu Exhibits-osan kehykseen: koko kirja on BANA:n arkistokansio *The Nameless Day*. Kansiossa on kaksi alkuperäistä ja niiden välissä tyhjä rivi. Arkistovirkailijana on K. Luonnos. ChatGPT:n ohje 4/IX ja sen harjoitus siirtyvät yhteiseen loppuun, koska ne pätevät kummassakin versiossa.
+6. **Versiossa B Akseli syö yhden banaanin yksin**, 142 → 141. Isä ei syö, eikä yhdistys syö jäljelle jääneitä. Loput 141 mätänevät myös B:ssä. Yksi teko riittää siihen, että poikkeama syntyy, mutta se ei pelasta terttua.
 
 ### DeepSeekin luonnoksesta otetaan käyttöön
 
