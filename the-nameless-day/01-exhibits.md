@@ -126,6 +126,8 @@ An expectation may not give rise to an obligation to eat a banana that does not 
 
 **§ 5 Meetings.** Decisions are made by a show of hands. Tails are not counted.
 
+**§ 6 Audit.** The Association's accounts are audited by two members who have not eaten from the same bunch.
+
 **§ 7 Dissolution.** If the Association is dissolved, its assets shall be eaten.
 
 *Note in the margin, BANA:* §7 has been examined for constitutionality. It concerns present bananas. The Ministry of Justice has not previously had to consider present bananas and has requested a further study.
@@ -186,6 +188,8 @@ The naming question is not pending. It is approaching.
 
 **The Dock Book (extracts)**
 *Kept by the Puijo Capuchin Association at Loading Dock 4. Dated by the day it was.*
+
+*From 22.4.2033 onward, by decision of the spring meeting, the Association sits at the dock every morning and records a morning count until the bunch is ripe.*
 
 | Date | Trucks | Bananas | Remarks |
 |---|--:|--:|---|

@@ -72,7 +72,7 @@ Asiakirjoja ilman kertojaa. Kaikki kuusi vihjettä kylvetään tässä, jotta ne
 | G | BANA:n kukintoilmoitus *17.6. VII* ja arkistoindeksin leima *17.6.2033* | Kronikka III | **Kalenterivirhe** |
 | H | Laiturin kirja, otteita: 22.4.2033 *Kukinto*, 27.10.2034 *Lumiukko itkee* | Kronikat II–III | **Lumiukon kello** |
 | I | Akselin muistikirja, otteita: lasin lämpötila 32 pisteessä ja nousu 27.10. | Mistral, toimitettuna | **Kolmas mittalaite** |
-| J | Kokouspöytäkirjat 27.10.–6.11.: kaksitoista päätöstä, mukaan lukien rivi 6 (*tilattu riippumaton arvio*) | Kronikka III | **Kaksitoista viivettä** |
+| J | Kokouspöytäkirjat 27.10.–6.11.: yksitoista pöytäkirjaa, mukaan lukien 1.11. (*tilattu riippumaton arvio*). Kahdestoista viive on yhdistyksen laskenta 7.11., josta ei ole pöytäkirjaa, koska kokousta ei voitu kutsua. | Kronikka III | **Kaksitoista viivettä** |
 | K | Ruotsin pantinsaajan lausunto, päivätty 27.10.: *"The pledgee does not object to harvest or consumption."* Leima: *in transit.* | Kronikka III | **Ensimmäinen isku** |
 | L | BANA:n tarkastuskertomuspohja 1/IX, sisällysluettelo hyväksytty muodollisuutena | Kronikka III | **Akrostikon** |
 
