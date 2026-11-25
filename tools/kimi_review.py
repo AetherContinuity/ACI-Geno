@@ -1,4 +1,4 @@
-"""Pyytää kimi-k3.1-pro-mallilta arvion The Nameless Day -teoksesta.
+"""Pyytää kimi-k3.1-pro-mallilta arvion The Nameless Day -teoksesta (ajo 2).
 
 Ajetaan GitHub Actionsissa (MOONSHOT_API_KEY on Actions-salaisuus).
 Vain Pythonin standardikirjasto. Kirjoittaa aina tiedoston, joko arvion
