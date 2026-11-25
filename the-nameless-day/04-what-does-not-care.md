@@ -79,7 +79,6 @@ The review found that the instruction had functioned as planned.
 
 **Closing entry.** Instruction 4/IX was filed. An appropriation was reserved for the next unnamed day. The appropriation was not used, because the day could not be confirmed as a budget period. It was carried forward to the following year. The following year it was carried forward again.
 
-*Source: drafted by ChatGPT for the club, translated and shortened.*
 
 ---
 
