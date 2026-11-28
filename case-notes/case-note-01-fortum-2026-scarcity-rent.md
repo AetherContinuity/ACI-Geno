@@ -11,6 +11,10 @@ information flow (§ 4), falsification criteria made symmetric with process
 observations (§ 5), theory–measurement linkage shown as a testable chain (§ 1.1).
 Second revision 28.11.2026: added tracked hypothesis H3 — Firm Capacity Allocation
 Concentration (§ 6); measurement points moved to § 7; sources to § 8.
+Third revision 28.11.2026, after TP-001 was revised upstream (§ 6.1b, Q-007) and the
+HS 13.9.2026 disclosure of the state's negotiation role: added the state's two roles
+(§ 6.5), the Fortum chain and the constant return requirement (§ 6.6), H3's first
+measurable baseline, and the Q-007 cross-reference (§ 6.7).
 
 ---
 
@@ -247,13 +251,90 @@ Measurable in principle; none yet measured:
 - Changes in the commercial allocation of balancing capability.
 - Large customers' share of Fortum's contract portfolio.
 - Development of production tied outside the domestic spot market.
+- Protected share of rolling 10-year production volume — Fortum's own strategic
+  metric (announced 11/2025): above 25 % by the end of 2028 [L]. This gives H3 its
+  first measurable baseline, defined by the company itself.
 
-### 6.5 Prior and relations
+### 6.5 The state's two roles: host without owner
+
+The public record of the Google investment (HS 13.9.2026 and follow-ups, as compiled
+in TP-001 § 6.1b) splits the state's role in two [L]:
+
+- **As host.** Negotiations began in April 2024 from a call by Prime Minister Orpo —
+  Google's top leadership had approached him — and were led by TEM state secretary
+  Petri Peltonen, reporting to the ministerial finance committee. A summer 2025
+  announcement of tighter data-center electricity taxation temporarily changed the
+  negotiating atmosphere. Peltonen has said the 13 bn € is the first phase. Yle later
+  confirmed the chain: the PM initiated, Peltonen led, the ministerial committee was
+  informed.
+- **As owner.** Ownership-steering minister Strand stated she heard of the investment
+  only in the final stages of preparation; no political preparation came from VNK's
+  ownership-steering department (Demokraatti 9/2026). At the announcement Orpo said
+  electricity sufficiency had been "credibly assured", while the government was
+  preparing a household electricity price cap for crises (MTV 9/2026). The
+  Constitutional Law Committee-adjacent audit line (TrVM 10/2026 vp) holds — from the
+  Uniper lesson — that state-majority companies' boards must always include a state
+  representative; Ojala-Niemelä invoked this for the Google deal. Fortum's AGM
+  31.3.2026 elected Mika Anttonen and Emmanuelle Verger-Chabotin, and the chair
+  Silvennoinen justified the 26.11. renewal with "today's emerging opportunities can
+  become the core of Fortum's future" [L].
+
+Interpretation [A]: the state negotiated for roughly 2.5 years as the investment's
+*host* but did not participate in preparation as its *owner* — and it is precisely as
+owner that it would have had a say over the allocation of Loviisa output. Insider
+rules are a valid basis for that separation. The consequence stands anyway: **no one
+represented the majority owner in the division of yield.** The PPA was decided by
+Fortum's board under its return requirement, while the state appeared at the
+announcement in favour of the deal. The price risk stays with households and the
+state — the price cap is the tell — and the yield is committed to the buyer for 22
+years. Open: whether Loviisa was part of TEM's negotiation package and who brought it
+in; only HS's lead is available on this.
+
+This sharpens the research question. Finland demonstrated the capacity to mobilise
+the state to *win* an investment — initiated by a single phone call from the Prime
+Minister. Whether it has the capacity to mobilise the state to *evaluate what is
+given in return, and to whom the long-term benefit belongs*, is a different
+institutional capacity. The asymmetry between the two is measurable, and it is a much
+more interesting research question than whether the 13 bn € investment was good or
+bad [A].
+
+### 6.6 The chain and the constant
+
+TP-001 § 6.1b (added 28.11.2026) compiles the chain [L, via TP-001's sources]:
+
+| Year | Event |
+|---|---|
+| 2007–08 | Russia acquisitions. A TE memorandum: acquisitions directed to Russia because strategic room was limited; Russia promised 14 % return on invested capital. TGC-10: first 29 % for 0.8 bn €, later over 90 %. |
+| 2013 | Finnish and Swedish grids sold to Caruna, bringing over 9 bn €. |
+| 2017–20 | ~7 bn € of the Caruna proceeds went into Uniper shares. |
+| 11/2025 | Strategic metric: protected share of rolling 10-year production volume above 25 % by end of 2028. |
+| 2022 | Uniper sold to the German state for 0.5 bn €; investment 7.5 bn €, dividends ~0.9 bn €, net cost just under 6 bn €. Russian operations taken over. The ownership-steering minister called the Uniper purchase a serious mistake in retrospect. |
+| 9/2026 | Google PPA signed; supports the 14 % RONA target (11.0 % LTM). |
+| 26.11.2026 | Leadership team renewed; Corporate Customers and Markets becomes its own unit alongside Generation (it has existed since 2023 within the Generation segment). |
+
+Interpretation [A]: the domestic natural monopoly — the distribution grid — was sold,
+and the proceeds went to foreign expansion that was subsequently lost. Citizens pay
+transfer tariffs on a grid they used to own through the state. The control mechanism
+has stayed constant: capital requires a return, and the return is sought where it is
+promised — Russia 2008, German gas 2017, data-center long-term contracts 2026. The
+14 % figure recurs in the 2008 and 2026 return targets without a claimed common
+source. After Uniper, leadership and strategy changed; **the return requirement did
+not**. The cost was booked; the cause was not corrected. For SP-007 this is the
+success-prior mechanism at institutional scale: the requirement survives the people,
+which is what makes it structural rather than personal.
+
+### 6.7 Prior, corpus booking, and the larger question
 
 **Prior [L].** Fortum's own history documents earlier divestments of businesses and
-assets, including small hydro and electricity distribution. This does not evidence the
-present development, but it makes the reorganisation of assets and businesses a
-familiar operating mode for the company.
+assets, including small hydro and electricity distribution. The chain in § 6.6
+extends this: reorganisation of assets and businesses is a familiar operating mode
+for the company. It does not evidence the present development.
+
+**Corpus booking [L].** TP-001 now registers **Q-007**
+(`ennakkorekisteroinnit/fortum-allokointi/`) tracking exactly this question at corpus
+level. H3 and Q-007 track the same phenomenon: H3 is this note's case-level statement,
+registered before 2.2.2027; Q-007 is the measurement booking. This note defers to
+Q-007 for measurement discipline and keeps H3 as its readable statement.
 
 **Relation to TP-001 § 7 [A].** TP-001 asks who receives the *scarcity rent* when
 prices rise; H3 asks who receives the *capacity itself* over time. These are the same
@@ -282,6 +363,8 @@ central claim.
 | Continuous | Connection queue length (Fingrid); FDI income outflow vs ownership share (ssij 12gu) | TP-001 § 3, § 10 |
 | Continuous | Process signals: origin of domain findings (internal vs regulator/media); standing items in leadership materials; expert retention in folded domains | § 5 |
 | Per disclosure | H3 variables: nuclear PPA share, hydro contract concentration, balancing-capability allocation, large-customer portfolio share, spot-external production | § 6 |
+| End 2028 | Fortum's own strategic metric: protected share of rolling 10-year production volume above 25 % | § 6.4 |
+| Continuous | State representation on Fortum's board vs the TrVM 10/2026 vp line; scope of Google's "first phase" follow-up investments | § 6.5 |
 
 ## 8. Sources
 
@@ -295,3 +378,10 @@ central claim.
   [kauppalehti.fi](https://www.kauppalehti.fi/uutiset/a/297b2981-8d72-4e74-aa30-78fa373659c4)
 - Inderes 26.11.2026: *Uusi asiakaskeskeisempi organisaatiorakenne* —
   [inderes.fi](https://www.inderes.fi/analyst-comments/fortum-uusi-asiakaskeskeisempi-organisaatiorakenne)
+- HS 13.9.2026 (Petri Sajari): *Virkamies kertoo salaisesta operaatiosta, jolla
+  Googlen jätti-investointi saatiin Suomeen* — via TP-001 § 6.1b compilation
+- Yle (follow-up): PM initiated the Google process, Peltonen led it, reporting to the
+  ministerial finance committee — via TP-001 § 6.1b
+- Demokraatti 9/2026 (ownership-steering minister Strand); MTV 9/2026 (Orpo on
+  sufficiency and the price cap); Uusi Suomi 9/2026 (Ojala-Niemelä); TrVM 10/2026 vp
+  (state representative on boards) — via TP-001 § 6.1b
