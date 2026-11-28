@@ -9,6 +9,8 @@ Prepared 28.11.2026. Revised 28.11.2026 after first review: [L]/[A] markings cor
 (§ 3), PPA contract mechanism specified (§ 3), formal position separated from
 information flow (§ 4), falsification criteria made symmetric with process
 observations (§ 5), theory–measurement linkage shown as a testable chain (§ 1.1).
+Second revision 28.11.2026: added tracked hypothesis H3 — Firm Capacity Allocation
+Concentration (§ 6); measurement points moved to § 7; sources to § 8.
 
 ---
 
@@ -190,7 +192,85 @@ Distinguishing predictions (process + outcome):
    process signature (the question never formally raised despite visible scarcity)
    co-occur. Either half alone supports only its own level, not the connection [A].
 
-## 6. Measurement points
+## 6. H3 — Firm Capacity Allocation Concentration
+
+**Status: hypothesis, [A] throughout, registered for tracking.** Not measured; not yet
+supported or refuted. Registered now, before the 2.2.2027 strategy disclosure, so that
+the explanation does not form after the measurement (TP-001 § 10.2's discipline).
+
+**Statement.** Fortum increases, over the long term, the share of its dispatchable and
+low-emission production capacity allocated to large corporate customers under
+long-term contracts, so that the commercially free capacity available to the domestic
+electricity system shrinks.
+
+### 6.1 The distinction that makes H3 worth registering
+
+The scenario does not require selling power plants. A subtler and
+owner-politically easier change is the reallocation of the *economic rights* to
+production and of long-term capacity to large corporate customers. The Google PPA
+already exhibits the form [L]: up to 50 % of Loviisa output in 2030–2049; the contract
+supports Fortum's roughly 1 bn € Loviisa life-extension programme; and no equivalent
+new production is added — what is rearranged is the commercial benefit and the price
+risk of existing capacity. The plant can stay in Finland, in Fortum's ownership, and
+on the grid, while its economic yield is committed elsewhere for two decades.
+
+### 6.2 Relevance of the 26.11.2026 change
+
+The new structure creates a dedicated Corporate Customers and Markets responsibility
+in the leadership team, and the strategy emphasises responding to customer needs,
+third-party-sourced energy, and partnerships to unlock new demand [L]. This does not
+prove allocation transfer to large customers; it shows the position of corporate
+customers strengthening in the business model. One distinction matters: the 26.11.
+announcement concerns the leadership team and business structure, **not the Board of
+Directors** — and the Board is the body that sets the direction of strategy [L]. H3's
+test therefore lies ahead of the governance change, not behind it.
+
+### 6.3 Development paths
+
+| Scenario | What happens |
+|---|---|
+| A. Current | Long-term PPAs complement the spot market. |
+| B. Concentrating | A growing share of nuclear and hydro output is bound to large customers' long-term contracts. |
+| C. Structural | Fortum increasingly becomes the energy partner of heavy industry and data centers, with the commercial use of its capacity optimised to these customers' needs. |
+
+H3 tracks paths B and C. Hydro deserves particular attention: it is not only produced
+electricity but balancing capability needed at the whole Nordic system level. If its
+commercial use is bound long-term to specific customer aggregates, the effect can
+extend far beyond a single electricity contract [A].
+
+### 6.4 Measurement variables
+
+Measurable in principle; none yet measured:
+
+- Share of nuclear output under long-term PPAs.
+- Long-term contract and customer concentration of hydro.
+- Changes in the commercial allocation of balancing capability.
+- Large customers' share of Fortum's contract portfolio.
+- Development of production tied outside the domestic spot market.
+
+### 6.5 Prior and relations
+
+**Prior [L].** Fortum's own history documents earlier divestments of businesses and
+assets, including small hydro and electricity distribution. This does not evidence the
+present development, but it makes the reorganisation of assets and businesses a
+familiar operating mode for the company.
+
+**Relation to TP-001 § 7 [A].** TP-001 asks who receives the *scarcity rent* when
+prices rise; H3 asks who receives the *capacity itself* over time. These are the same
+question at different horizons, and both share the structural feature that the answer
+is settled by contract rather than by any domestic decision-making process.
+
+**The larger question [A].** If the Finnish state holds a majority of Fortum and the
+company allocates a growing share of strategically important production capacity to
+international large customers, at what point do owner steering and the national
+electricity-system interest diverge? Owner steering sits with VNK, system operation
+with Fingrid, regulation with Energiavirasto — the question again belongs to no single
+actor (CN-004), and no actor bears the divergence cost at decision time (SM-007). This
+is a much larger question than one company's strategy change, and it is the point at
+which the Fortum case would stop being a case study and become a test of the corpus's
+central claim.
+
+## 7. Measurement points
 
 | When | What | Tied to |
 |---|---|---|
@@ -201,8 +281,9 @@ Distinguishing predictions (process + outcome):
 | ~12/2030 | Q-004: do data center investments raise GDP more than national income | TP-001 § 3 |
 | Continuous | Connection queue length (Fingrid); FDI income outflow vs ownership share (ssij 12gu) | TP-001 § 3, § 10 |
 | Continuous | Process signals: origin of domain findings (internal vs regulator/media); standing items in leadership materials; expert retention in folded domains | § 5 |
+| Per disclosure | H3 variables: nuclear PPA share, hydro contract concentration, balancing-capability allocation, large-customer portfolio share, spot-external production | § 6 |
 
-## 7. Sources
+## 8. Sources
 
 - SP-007, *Biological Constraints and Institutional Continuity* —
   [aethercontinuity.github.io](https://github.com/AetherContinuity/aethercontinuity.github.io/blob/main/papers/sp-007-biological-constraints-institutional-continuity.html)
