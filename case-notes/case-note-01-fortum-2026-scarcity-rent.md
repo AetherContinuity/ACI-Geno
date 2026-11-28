@@ -5,7 +5,10 @@
 follow the OGAS3 convention: **[L]** checked against a source, **[A]** assessment or
 interpretation, **[M]** measured with a prior registration.
 
-Prepared 28.11.2026.
+Prepared 28.11.2026. Revised 28.11.2026 after first review: [L]/[A] markings corrected
+(§ 3), PPA contract mechanism specified (§ 3), formal position separated from
+information flow (§ 4), falsification criteria made symmetric with process
+observations (§ 5), theory–measurement linkage shown as a testable chain (§ 1.1).
 
 ---
 
@@ -21,6 +24,27 @@ The three use the same company as their specimen from different directions: SP-0
 theory of why its decisions misroute, TP-001 as a measurement of what the decisions cost
 and who bears them, and the 26.11.2026 release as an observable change in the
 decision-making geometry itself.
+
+### 1.1 How the levels are proposed to connect — shown, not asserted
+
+The linkage between TP-001 and SP-007 is a hypothesis of this note, [A] throughout, and
+should be read as a proposed chain, not an established result:
+
+1. **TP-001 (economic level):** the scarcity-rent question belongs to no one (CN-004)
+   and no actor bears the cost at decision time (SM-007). This *describes* the actor
+   deficit; it does not explain why the deficit persists instead of being closed by
+   some actor with power, incentive, and capability.
+2. **SP-007 (cognitive/social level):** supplies the persistence mechanism. Status
+   routing means whoever raises the unowned question pays a status cost that the
+   question's future value cannot repay to them personally; conflict avoidance keeps
+   the silence stable because naming the allocation issue threatens every coalition
+   member simultaneously (TP-001 § 7: "silence serves nearly everyone"); success-prior
+   lock-in keeps the contractual path attractive after a validated success record.
+3. **Testable consequence of the chain:** if the levels are genuinely linked, the
+   *economic* structure (rent captured outside the domestic decision layer) should
+   co-occur with the *process* signature SP-007 predicts (the question never formally
+   raised by any domestic actor despite visible scarcity). Either half without the
+   other supports only its own level — see prediction 4 in § 5.
 
 ## 2. The event [L]
 
@@ -56,13 +80,23 @@ TP-001 § 6.1 and § 7 are about Fortum directly:
   risk transfer, not a capability shortage — a return-target-guided state-owned company,
   whose balance sheet carried the Russia and Uniper losses, sells baseload power to a
   foreign buyer. No direct evidence it would have acted differently without the losses.
-- **Scarcity rent allocation (§ 7) [L]:** under a PPA, the *buyer* receives the rent
-  when prices rise — the fixed price is insurance against a price rise the buyer's own
-  demand helps cause. A two-way CfD (Poland) returns the surplus to the state or
-  consumers; Mankala structures return it to owners; guarantees of origin let the
-  certificate buyer claim the environmental value, making Finnish consumers' residual
-  mix fossiler than actual production (95 % of Finnish renewables are certified; GoO
-  prices 1–2 €/MWh).
+- **Scarcity rent allocation under a PPA (§ 7) [A, mechanism]:** TP-001's table assigns
+  the PPA rent to the buyer. The *generic* fixed-price PPA supports this: the buyer
+  pays a fixed price and captures the difference when the market price rises above it,
+  so the fixed price doubles as insurance against a price rise the buyer's own demand
+  helps cause. But the allocation is **not** a property of the contract type alone. It
+  depends on the pricing level, the settlement mechanism (financial difference vs
+  physical delivery), the contracted volume share, any price floors or caps, and the
+  buyer's net position outside the contract. The public record gives only headline
+  terms (22 years, 50 % of Loviisa capacity 2030–2049) [L]; strike level, settlement
+  form, and volume details are not public. Until the Fortum–Google contract structure
+  is shown, the rent-to-buyer assignment is an interpretation of a contract type, not
+  a finding about this contract.
+- **Scarcity rent allocation under other instruments (§ 7) [L, via TP-001's sources]:**
+  a two-way CfD (Poland) returns the surplus to the state or consumers; Mankala
+  structures return it to owners. Guarantees of origin let the certificate buyer claim
+  the environmental value, making Finnish consumers' residual mix fossiler than actual
+  production (95 % of Finnish renewables are certified; GoO prices 1–2 €/MWh).
 - **The corrected core [L]:** the paper's original draft claimed the scarcity cost was
   still in the future. It was not. Nordic system price: 39.7 €/MWh (2025) → 82.4 €/MWh
   (2026, realised and forecast, LSEG 5/2026); hydrological deficit −24.3 TWh in
@@ -78,10 +112,16 @@ TP-001 § 6.1 and § 7 are about Fortum directly:
 SP-007 explains why TP-001's § 7 silence is stable rather than accidental:
 
 - **Status routing.** Information flows through status positions, not epistemic quality.
-  The 26.11.2026 reorganisation *reduces the number of status positions* through which
-  domain-specific early warnings (nuclear asset integrity, renewables project slippage,
-  grid constraints) can reach the top table. Nuclear, renewables, and sustainability
-  each lose their dedicated seat; all fold into one Generation portfolio [A].
+  The 26.11.2026 reorganisation *reduces the number of formal status positions* through
+  which domain-specific early warnings (nuclear asset integrity, renewables project
+  slippage, grid constraints) can reach the top table: nuclear, renewables, and
+  sustainability each lose a dedicated seat, and all fold into one Generation portfolio
+  [L, the seats]. **That routing actually degrades is the hypothesis, not the finding
+  [A].** Removing a formal position does not by itself remove informal influence:
+  departing incumbents retain networks and expertise, escalation practices may
+  substitute for seats, and whether one Generation EVP can attend to four domains at
+  once is an empirical question about attention, not structure. Public organisational
+  data cannot settle it — which is what the process observations in § 5 are for.
 - **Conflict avoidance.** "Simpler governance" is coalition-maintenance language: it is
   true, and it is also the form that consensus pressure takes when stated aloud [A].
 - **Success-prior lock-in.** The one internal promotion to a consolidated portfolio is
@@ -107,18 +147,48 @@ consolidation, prior-coherent promotion) operating in a non-failure mode, which 
 rarer and more instructive: the information-routing geometry changes *before* anyone
 knows whether it mattered [A].
 
-Distinguishing predictions:
+**Symmetry requirement.** Outcome observations alone are weak evidence in both
+directions, and the criteria must be stated so neither reading can win by default:
 
-1. **SP-007 reading supported if:** over the next 2–3 years, domain-specific issues
-   (nuclear licensing, renewables slippage, grid limits) surface late, or from outside
-   the company (regulators, media, neighbours) rather than through internal escalation [A].
-2. **Right-sizing reading supported if:** nothing of the sort occurs and the 2.2.2027
-   KPIs are met without delayed internal signals [A].
+- Late or externally surfaced problems do **not** by themselves prove the SP-007
+  mechanism — bad luck, sector-wide conditions, or ordinary post-reorganisation
+  friction produce the same outcome signature.
+- The *absence* of problems does **not** disprove the mechanism — it may simply never
+  have been tested within the observation window.
+- KPIs being met says nothing about routing quality: a coalition can hit its targets
+  while systematically misrouting signals whose costs fall due later. That is SM-007's
+  core claim, and it applies to the right-sizing reading's evidence too.
+
+Therefore the distinguishing evidence must include **process observations, not only
+outcomes** [A]:
+
+- Where domain-specific findings originate: internal escalation (minutes, internal
+  audit, leadership-team papers) vs regulators, media, or neighbours arriving first.
+- Whether sustainability, renewables, and nuclear issues still appear as standing
+  items in leadership-team materials after 1.2.2027, or enter only reactively.
+- Expert retention in the folded domains: whether domain expertise follows the
+  removed seats out of the decision perimeter.
+- Attention allocation of the single Generation EVP across four domains (agenda
+  structure, delegation patterns).
+
+Distinguishing predictions (process + outcome):
+
+1. **SP-007 reading supported if:** domain-specific issues (nuclear licensing,
+   renewables slippage, grid limits) surface late or externally **and** the process
+   data show the corresponding signals were absent from internal escalation channels
+   before surfacing [A].
+2. **Right-sizing reading supported if:** outcomes are met **and** process data show
+   domain signals still routing normally — standing items present, findings of
+   internal origin, stable expert retention [A].
 3. **TP-001 reading supported if:** the scarcity-rent question remains unasked in
    Finnish public debate through the 2.2.2027 strategy disclosure, while the physical
    forcing point approaches — TP-001 § 8 notes Ireland's correction came from a *grid*
    limit, not a political decision, and identifies Finland's equivalent as the
    **connection queue (liittymäjono)** [L].
+4. **Linkage (§ 1.1) supported if:** predictions 1 and 3 hold *together* — the
+   economic structure (rent captured outside the domestic decision layer) and the
+   process signature (the question never formally raised despite visible scarcity)
+   co-occur. Either half alone supports only its own level, not the connection [A].
 
 ## 6. Measurement points
 
@@ -130,6 +200,7 @@ Distinguishing predictions:
 | 2029–2031 | Q-005: recovery from shock B vs shock A (R_A ≈ 0.20) | TP-001 § 3 |
 | ~12/2030 | Q-004: do data center investments raise GDP more than national income | TP-001 § 3 |
 | Continuous | Connection queue length (Fingrid); FDI income outflow vs ownership share (ssij 12gu) | TP-001 § 3, § 10 |
+| Continuous | Process signals: origin of domain findings (internal vs regulator/media); standing items in leadership materials; expert retention in folded domains | § 5 |
 
 ## 7. Sources
 
